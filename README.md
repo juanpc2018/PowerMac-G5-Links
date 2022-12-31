@@ -1,5 +1,5 @@
 ## PowerMac G5 Links 
-v1.00000006
+v1.00000007
 
 The Purpose is to collect in 1 place all information available about Apple PowerMac G5 (2003-2005). </br>
 Schematics, Tech Notes, OpenFirmware, Fimware updates, Service Manuals, Diagnostics, compatible OS, etc... </p>
@@ -54,6 +54,12 @@ Ubuntu 5.10 for PPC </br>
 https://archive.org/details/ubuntupowerpcbreezy </br>
 OSX 10.5.9 Sobet </br>
 https://macintoshgarden.org/apps/sorbet-leopard </br>
+
+Diagnostics: </br>
+v2.6.3 for PowerMac G5 2005 Late </br>
+v2.5.8 for PowerMac G5 2005 Early and older 2003-2004 </br>
+https://www.macintoshrepository.org/33373-apple-service-diagnostic-2-6-3 </br>
+https://www.macintoshrepository.org/42546-apple-service-diagnostic-2-5-8 </p>
 
 Software: </br>
 https://archive.org </br>
