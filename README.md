@@ -1,7 +1,34 @@
-## PowerMac G5 Links v1.0
+## PowerMac G5 Links 
+v1.00000002
 
 The Purpose is to collect in 1 place all information available about Apple PowerMac G5 (2003-2005). </br>
-Schematics, Tech Notes, OpenFirmware, etc... </p>
+Schematics, Tech Notes, OpenFirmware, Fimware updates, Service Manuals, etc... </p>
+
+Wiki:
+https://en.wikipedia.org/wiki/Power_Mac_G5 </p>
+https://en.wikipedia.org/wiki/PowerPC_970 </br>
+https://web.archive.org/web/20140522012345/https://www-01.ibm.com/chips/techlib/techlib.nsf/techdocs/DC3D43B729FDAD2C00257419006FB955/$file/970FX_user_manual.v1.7.2008MAR14_pub.pdf </br>
+https://web.archive.org/web/*/http://www-01.ibm.com/chips/techlib/techlib.nsf/techdocs/16E15AC4CA4A238D8725703D00803F33/$file/PPC970FX_IFACE_TUN_AN.pdf </br>
+https://web.archive.org/web/*/http://www-01.ibm.com/chips/techlib/techlib.nsf/techdocs/1DE505664D202D2987256D9C006B90A5/$file/PPC970FX_DS_DD3.X_V2.3.pdf </br>
+https://web.archive.org/web/*/http://www-01.ibm.com/chips/techlib/techlib.nsf/techdocs/89F223FF70ECF1698725706E0070E9A1/$file/PPC970FX_DG.pdf </br>
+https://web.archive.org/web/*/https://www-01.ibm.com/chips/techlib/techlib.nsf/techdocs/1DE505664D202D2987256D9C006B90A5/$file/PPC970FX_DS_DD3.X_V2.5_26MAR2007_pub.pdf </br>
+https://web.archive.org/web/*/https://www-01.ibm.com/chips/techlib/techlib.nsf/techdocs/78AFC0C662E2882D872571DB0051FAA4/$file/PPC970FX_945_DG_31Oct2007_pub.pdf </br>
+https://web.archive.org/web/*/http://www-01.ibm.com/chips/techlib/techlib.nsf/techdocs/2CE5F8151C674FB7872571BC005C7265/$file/PPC970MP_DG_pub_13Sept2007.pdf </p>
+
+IBM CPC945 / Apple U4 NorthBridge: </br>
+2x 625MHz unidirectional processor buses, </br>
+2x memory controllers that support 64GB of 533 MHz DDR2 SDRAM with ECC capability, </br>
+x16 PCIe lane </br>
+800 MHz 16-bit HyperTransport tunnel. </br> 
+Was fabricated in a 90nm process. </p>
+
+https://web.archive.org/web/*/http://www-01.ibm.com/chips/techlib/techlib.nsf/techdocs/B2BBA0230B9B9BF4872570EB006DAB7B/$file/CPC945UM.GA.2008FEB01_pub.pdf </p>
+
+More IBM pdf: </br>
+https://web.archive.org/web/*/https://www-01.ibm.com/chips/techlib/techlib.nsf/techdocs/* </p>
+
+CHRP: </br>
+http://bitsavers.informatik.uni-stuttgart.de/pdf/apple/powerpc/CHRP/ </p>
 
 Single Processor: </br>
 https://developer.apple.com/library/archive/documentation/Hardware/Developer_Notes/Macintosh_CPUs-G5/PowerMacG5_SP/0Preface/Q78_pref.html#//apple_ref/doc/uid/TP40001481 </br>
@@ -13,7 +40,5 @@ https://developer.apple.com/library/archive/documentation/Hardware/Developer_Not
 
 https://developer.apple.com/library/archive/technotes/tn/tn2090.html#//apple_ref/doc/uid/DTS10003107 </br>
 https://developer.apple.com/library/archive/technotes/tn/tn2086.html#//apple_ref/doc/uid/DTS10003105 </br>
-
-
 
 https://developer.apple.com/library/archive/qa/qa2001/qa1307.html#//apple_ref/doc/uid/DTS10002330 </p>
