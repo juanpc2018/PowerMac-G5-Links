@@ -1,5 +1,5 @@
 ## PowerMac G5 Links 
-v1.00000003
+v1.00000004
 
 The Purpose is to collect in 1 place all information available about Apple PowerMac G5 (2003-2005). </br>
 Schematics, Tech Notes, OpenFirmware, Fimware updates, Service Manuals, etc... </p>
@@ -53,13 +53,17 @@ https://www.realworldtech.com/ppc970/ </p>
 
 Operating systems: </br>
 Ubuntu 5.10 for PPC </br>
-https://archive.org/details/ubuntupowerpcbreezy
+https://archive.org/details/ubuntupowerpcbreezy </p>
+
+OSX 10.5.9 Sobet </br>
+https://macintoshgarden.org/apps/sorbet-leopard </br>
 
 Software: </br>
 https://archive.org </br>
 https://www.vintageapplemac.com/archived-ubuntu-5-10-for-ppc-mac/ </br>
 https://www.macintoshrepository.org/architectures.php </br>
 https://archive.org/details/Macintosh_Garden_Collection?&sort=-week&page=2 </br>
+https://macintoshgarden.org/apps/ </p>
 
 Emulators: </br>
 http://www.vmac.org
