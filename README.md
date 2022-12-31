@@ -1,5 +1,5 @@
 ## PowerMac G5 Links 
-v1.00000004
+v1.00000005
 
 The Purpose is to collect in 1 place all information available about Apple PowerMac G5 (2003-2005). </br>
 Schematics, Tech Notes, OpenFirmware, Fimware updates, Service Manuals, etc... </p>
@@ -40,9 +40,7 @@ https://developer.apple.com/library/archive/documentation/Hardware/Developer_Not
 
 https://developer.apple.com/library/archive/technotes/tn/tn2090.html#//apple_ref/doc/uid/DTS10003107 </br>
 https://developer.apple.com/library/archive/technotes/tn/tn2086.html#//apple_ref/doc/uid/DTS10003105 </br>
-
 https://developer.apple.com/library/archive/qa/qa2001/qa1307.html#//apple_ref/doc/uid/DTS10002330 </p>
-
 
 Basic introduction to PPC 970 "Power4" architecture in 2002 before release: </br>
 Power4 vs. Pentium4 </br>
@@ -53,8 +51,7 @@ https://www.realworldtech.com/ppc970/ </p>
 
 Operating systems: </br>
 Ubuntu 5.10 for PPC </br>
-https://archive.org/details/ubuntupowerpcbreezy </p>
-
+https://archive.org/details/ubuntupowerpcbreezy </br>
 OSX 10.5.9 Sobet </br>
 https://macintoshgarden.org/apps/sorbet-leopard </br>
 
@@ -63,7 +60,8 @@ https://archive.org </br>
 https://www.vintageapplemac.com/archived-ubuntu-5-10-for-ppc-mac/ </br>
 https://www.macintoshrepository.org/architectures.php </br>
 https://archive.org/details/Macintosh_Garden_Collection?&sort=-week&page=2 </br>
-https://macintoshgarden.org/apps/ </p>
+https://macintoshgarden.org/ </br>
+https://translated.turbopages.org/proxy_u/ru-en.en.d8cc0675-63b0bb3b-41f2e8a6-74722d776562/https/powermac.root-project.ru/2012/05/macos-x.html </p>
 
 Emulators: </br>
 http://www.vmac.org
