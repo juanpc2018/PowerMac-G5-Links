@@ -58,7 +58,7 @@ https://archive.org/details/ubuntupowerpcbreezy
 Software: </br>
 https://archive.org </br>
 https://www.vintageapplemac.com/archived-ubuntu-5-10-for-ppc-mac/ </br>
-https://www.macintoshrepository.org </br>
+https://www.macintoshrepository.org/architectures.php </br>
 https://archive.org/details/Macintosh_Garden_Collection?&sort=-week&page=2 </br>
 
 Emulators: </br>
