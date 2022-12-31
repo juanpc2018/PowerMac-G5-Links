@@ -1,5 +1,5 @@
 ## PowerMac G5 Links 
-v1.00000002
+v1.00000003
 
 The Purpose is to collect in 1 place all information available about Apple PowerMac G5 (2003-2005). </br>
 Schematics, Tech Notes, OpenFirmware, Fimware updates, Service Manuals, etc... </p>
@@ -51,6 +51,19 @@ https://groups.google.com/g/comp.arch/c/0Hz92zezb28/m/03PDw8pYIIIJ?hl=en </br>
 https://arstechnica.com/features/2002/10/ppc970/ </br>
 https://www.realworldtech.com/ppc970/ </p>
 
+Operating systems: </br>
+Ubuntu 5.10 for PPC </br>
+https://archive.org/details/ubuntupowerpcbreezy
+
+Software: </br>
+https://archive.org </br>
+https://www.vintageapplemac.com/archived-ubuntu-5-10-for-ppc-mac/ </br>
+https://www.macintoshrepository.org </br>
+https://archive.org/details/Macintosh_Garden_Collection?&sort=-week&page=2 </br>
+
+Emulators: </br>
+http://www.vmac.org
+QEMU
 
 Converting G5 case top ATX: </br>
 https://www.insanelymac.com/forum/topic/334629-26-powermac-g5-case-modding-project-matx-atx-conversion-barebones-mac-pro-alternative/ </br>
