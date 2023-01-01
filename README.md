@@ -1,5 +1,5 @@
 ## PowerMac G5 Links 
-v1.00000011
+v1.00000012
 
 The Purpose is to collect in 1 place all information available about Apple PowerMac G5 (2003-2005). </br>
 Schematics, Tech Notes, OpenFirmware, Fimware updates, Service Manuals, Diagnostics, compatible OS, etc... </p>
@@ -111,6 +111,9 @@ G5 2003 https://support.apple.com/kb/SP96?viewlocale=en_US&locale=en_US </br>
 G5 Late 2004 https://support.apple.com/kb/SP67?viewlocale=en_US&locale=en_US </br>
 Xserve G5 https://support.apple.com/kb/SP86?viewlocale=en_US&locale=en_US </br>
 G5 Late 2005 https://support.apple.com/kb/SP37?locale=en_US </p>
+
+Viginia-Tech Systen-X 1100 PowerMacs G5 </br>
+https://www.evl.uic.edu/julian/cs466/ </p>
 
 Obsolete Product List: </br>
 https://support.apple.com/en-us/HT201624 </p>
