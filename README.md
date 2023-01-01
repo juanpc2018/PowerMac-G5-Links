@@ -140,3 +140,10 @@ https://web.archive.org/web/*/https://http.maxon.net/pub/benchmarks/cinebench_20
 https://web.archive.org/web/*/http://http.maxon.net/pub/benchmarks/cinebench_2003_g5.sit </br>
 https://web.archive.org/web/*/http://http.maxon.net/pub/benchmarks/cinebench_2003.zip </br>
 https://web.archive.org/web/*/http://http.maxon.net/pub/benchmarks/* </p>
+
+PowerPC 604e Books (1997) </br>
+https://web.archive.org/web/*/http://the.wall.riscom.net/* </p>
+Web version of The PowerPC Compiler Writer's Guide (1996) </br>
+https://web.archive.org/web/20070608053649/http://the.wall.riscom.net/books/proc/ppc/cwg/cwg_toc.html </br>
+PDF: </br>
+https://archive.org/details/powerpc-cwg </p>
