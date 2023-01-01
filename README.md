@@ -59,8 +59,34 @@ https://translated.turbopages.org/proxy_u/ru-en.en.84bd174a-63b0d3a3-3992663c-74
 Operating systems: </br>
 Ubuntu 5.10 for PPC </br>
 https://archive.org/details/ubuntupowerpcbreezy </br>
-OSX 10.5.9 Sobet </br>
+OSX 10.5.9 Sobet (2022) </br>
 https://macintoshgarden.org/apps/sorbet-leopard </br>
+Fienix 5.10 (2022) </br>
+http://fienixppc.blogspot.com/ </br>
+Adelie Linux: </br>
+https://www.adelielinux.org/ </p>
+Yellow Dog Linux (1999) </br>
+http://ftp.caliu.cat/pub/distribucions/yellowdog/iso/ </br>
+Lubuntu 16.04.4 LTS Xenial Xerus PPC </br>
+http://mirror.datto.com/ubuntu-releases/lubuntu/releases/16.04.4/release/ </br>
+Ubuntu Mate 16.04.4 </br>
+http://mirror.datto.com/ubuntu-releases/ubuntu-mate/releases/16.04.4/release/ </br>
+Ubuntu Server 16.04.4 </br>
+http://mirror.datto.com/ubuntu-releases/releases/16.04.4/release/ </br>
+http://mirror.datto.com/ubuntu-releases/ubuntu/releases/16.04.4/release/ </br>
+Debian 11.0 </br>
+https://cdimage.debian.org/cdimage/ports/current/ </br>
+https://forums.macrumors.com/threads/debian-sid-installation-guide-powerpc.2146795/ </br>
+Ubuntu Base </br>
+http://mirror.datto.com/ubuntu-releases/ubuntu-base/releases/16.04.4/release/ </br>
+powerpc ISOs will work G3, G4, and G5. </br>
+ppc64 ISOs Only work on G5s, kernel and userspace fully 64-bit but...</br>
+buggier than powerpc "32-Bit". </p>
+
+
+Browsers: </br>
+Arctic Fox </br>
+NetSurf </p>
 
 Diagnostics: </br>
 v2.6.3 for PowerMac G5 2005 Late </br>
