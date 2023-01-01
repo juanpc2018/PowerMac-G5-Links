@@ -1,5 +1,5 @@
 ## PowerMac G5 Links 
-v1.00000008
+v1.00000009
 
 The Purpose is to collect in 1 place all information available about Apple PowerMac G5 (2003-2005). </br>
 Schematics, Tech Notes, OpenFirmware, Fimware updates, Service Manuals, Diagnostics, compatible OS, etc... </p>
@@ -73,6 +73,16 @@ https://translated.turbopages.org/proxy_u/ru-en.en.d8cc0675-63b0bb3b-41f2e8a6-74
 Emulators: </br>
 http://www.vmac.org
 QEMU
+
+OpenFirmware: </br>
+Press [Control]+[Option]/[Alt]+[O]+[F] at Boot </br>
+IEEE 1275-1994 ("1999") Standard for Boot (Initialization, Configuration) </br>
+https://github.com/openbios/openfirmware/tree/master/cpu/ppc </br>
+https://openfirmware.org/1275/home.html </br>
+https://en.wikipedia.org/wiki/Open_Firmware </br>
+https://en.wikipedia.org/wiki/PowerPC_Reference_Platform </br>
+http://macos9lives.com/smforum/index.php?topic=1965.0 </p>
+
 
 Converting G5 case top ATX: </br>
 https://www.insanelymac.com/forum/topic/334629-26-powermac-g5-case-modding-project-matx-atx-conversion-barebones-mac-pro-alternative/ </br>
