@@ -48,6 +48,7 @@ Basic introduction to PPC 970 "Power4" architecture in 2002 before release: </br
 https://web.archive.org/web/20070518150548/http://www.realworldtech.com/page.cfm?NewsID=353&date=02-15-2006#353 </br>
 Power4 vs. Pentium4 </br>
 https://archive.arstechnica.com/wankerdesk/3q02/powerpc.html ---> To Read </br>
+https://archive.arstechnica.com/cpu/02q2/ppc970/m-ppc970-1.html ---> To Read </br>
 https://archive.arstechnica.com/cpu/03q1/ppc970/ppc970-0.html Part II ---> To Read </br> 
 https://web.archive.org/web/20090129183103/http://www-01.ibm.com/chips/techlib/techlib.nsf/products/PowerPC_9XX_Microprocessors </br>
 https://groups.google.com/g/comp.arch/c/0Hz92zezb28/m/03PDw8pYIIIJ?hl=en </br>
