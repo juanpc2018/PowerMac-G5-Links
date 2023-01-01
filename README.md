@@ -1,11 +1,11 @@
 ## PowerMac G5 Links 
-v1.00000009
+v1.00000010
 
 The Purpose is to collect in 1 place all information available about Apple PowerMac G5 (2003-2005). </br>
 Schematics, Tech Notes, OpenFirmware, Fimware updates, Service Manuals, Diagnostics, compatible OS, etc... </p>
 
-Wiki:
-https://en.wikipedia.org/wiki/Power_Mac_G5 </p>
+Wiki: </br>
+https://en.wikipedia.org/wiki/Power_Mac_G5 </br>
 https://en.wikipedia.org/wiki/PowerPC_970 </br>
 https://web.archive.org/web/20140522012345/https://www-01.ibm.com/chips/techlib/techlib.nsf/techdocs/DC3D43B729FDAD2C00257419006FB955/$file/970FX_user_manual.v1.7.2008MAR14_pub.pdf </br>
 https://web.archive.org/web/*/http://www-01.ibm.com/chips/techlib/techlib.nsf/techdocs/16E15AC4CA4A238D8725703D00803F33/$file/PPC970FX_IFACE_TUN_AN.pdf </br>
@@ -47,7 +47,8 @@ Power4 vs. Pentium4 </br>
 https://archive.arstechnica.com/wankerdesk/3q02/powerpc.html ---> To Read </br>
 https://groups.google.com/g/comp.arch/c/0Hz92zezb28/m/03PDw8pYIIIJ?hl=en </br>
 https://arstechnica.com/features/2002/10/ppc970/ </br>
-https://www.realworldtech.com/ppc970/ </p>
+https://www.realworldtech.com/ppc970/ </br>
+https://translated.turbopages.org/proxy_u/ru-en.en.84bd174a-63b0d3a3-3992663c-74722d776562/https/bytemag.ru/miikroprocessorie-power-ii-powerp-2649/ </p>
 
 Operating systems: </br>
 Ubuntu 5.10 for PPC </br>
@@ -71,7 +72,7 @@ https://macintoshgarden.org/ </br>
 https://translated.turbopages.org/proxy_u/ru-en.en.d8cc0675-63b0bb3b-41f2e8a6-74722d776562/https/powermac.root-project.ru/2012/05/macos-x.html </p>
 
 Emulators: </br>
-http://www.vmac.org
+http://www.vmac.org </br>
 QEMU
 
 OpenFirmware: </br>
@@ -83,6 +84,30 @@ https://en.wikipedia.org/wiki/Open_Firmware </br>
 https://en.wikipedia.org/wiki/PowerPC_Reference_Platform </br>
 http://macos9lives.com/smforum/index.php?topic=1965.0 </p>
 
+Batery Replacement Guide: </br>
+https://www.ifixit.com/Guide/Power+Mac+G5+Late+2005+CMOS-PRAM+Battery+Replacement/6260 </p>
+
+Apple Producgt Timeline History </br>
+https://apple-history.com/g5_late_05 </p>
 
 Converting G5 case top ATX: </br>
 https://www.insanelymac.com/forum/topic/334629-26-powermac-g5-case-modding-project-matx-atx-conversion-barebones-mac-pro-alternative/ </br>
+
+Firmware Updates: </br>
+Late 2004 https://support.apple.com/kb/DL424?viewlocale=en_US&locale=en_US </br>
+Late 2004 v1.1 https://support.apple.com/kb/DL397?viewlocale=en_US&locale=en_US </br>
+June 2004 5.1.8f7 https://support.apple.com/kb/DL535?viewlocale=en_US&locale=en_US </br>
+G5 5.1.4 (2003) https://support.apple.com/kb/DL627?viewlocale=en_US&locale=en_US </br>
+G5 UP 5.1.5f2 (2004) https://support.apple.com/kb/DL548?viewlocale=en_US&locale=en_US </br>
+Xserve G5 5.1.7f1 (2004) https://support.apple.com/kb/DL560?viewlocale=en_US&locale=en_US </br>
+OSX 10.2.8 G5 https://support.apple.com/kb/DL644?viewlocale=en_US&locale=en_US </p>
+
+Tech Specs: </br>
+https://everymac.com </br>
+G5 2003 https://support.apple.com/kb/SP96?viewlocale=en_US&locale=en_US </br>
+G5 Late 2004 https://support.apple.com/kb/SP67?viewlocale=en_US&locale=en_US </br>
+Xserve G5 https://support.apple.com/kb/SP86?viewlocale=en_US&locale=en_US </p>
+
+Obsolete Product List: </br>
+https://support.apple.com/en-us/HT201624 </p>
+
