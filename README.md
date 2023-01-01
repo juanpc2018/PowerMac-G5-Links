@@ -43,8 +43,11 @@ https://developer.apple.com/library/archive/technotes/tn/tn2086.html#//apple_ref
 https://developer.apple.com/library/archive/qa/qa2001/qa1307.html#//apple_ref/doc/uid/DTS10002330 </p>
 
 Basic introduction to PPC 970 "Power4" architecture in 2002 before release: </br>
+https://web.archive.org/web/20070518150548/http://www.realworldtech.com/page.cfm?NewsID=353&date=02-15-2006#353 </br>
 Power4 vs. Pentium4 </br>
 https://archive.arstechnica.com/wankerdesk/3q02/powerpc.html ---> To Read </br>
+https://archive.arstechnica.com/cpu/03q1/ppc970/ppc970-0.html Part II ---> To Read </br> 
+https://web.archive.org/web/20090129183103/http://www-01.ibm.com/chips/techlib/techlib.nsf/products/PowerPC_9XX_Microprocessors </br>
 https://groups.google.com/g/comp.arch/c/0Hz92zezb28/m/03PDw8pYIIIJ?hl=en </br>
 https://arstechnica.com/features/2002/10/ppc970/ </br>
 https://www.realworldtech.com/ppc970/ </br>
