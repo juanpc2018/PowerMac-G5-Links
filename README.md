@@ -130,7 +130,7 @@ https://lowendmac.com/2005/power-mac-g5-dual/ </br>
 
 Benchmarks: </br>
 https://lowendmac.com/2014/how-fast-is-classic-mode-on-a-power-mac-g5/ </br>
-Speedometer 3 68k has a very different way to Measure Dhrystones vs. Sysinfo 68k in Amiga. </br>
+Speedometer 3 68k has a very different way to Measure Dhrystones vs. Amiga Sysinfo 68k. </br>
 a MacClassic 68K 8Mhz measures 600K Dhrystones, but same CPU in Amiga SysInfo measures 3600 Dhrystones at 50Mhz. </br>
 https://youtu.be/698lVfoSvX0?list=UUkb4bw4N19d-x_tn2FXLojQ </p>
 
