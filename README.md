@@ -112,9 +112,11 @@ G5 Late 2004 https://support.apple.com/kb/SP67?viewlocale=en_US&locale=en_US </b
 Xserve G5 https://support.apple.com/kb/SP86?viewlocale=en_US&locale=en_US </br>
 G5 Late 2005 https://support.apple.com/kb/SP37?locale=en_US </p>
 
-Viginia-Tech Systen-X 1100 PowerMacs G5 </br>
-https://www.evl.uic.edu/julian/cs466/ </br>
-https://www.youtube.com/watch?v=vLujLtgBJC0 </p>
+Viginia-Tech Systen-X </br>
+2003 System was 1100 PowerMac G5 </br>
+https://www.youtube.com/watch?v=vLujLtgBJC0 </br>
+2005 System was 1100 Xserve G5 </br>
+https://www.evl.uic.edu/julian/cs466/ </p>
 
 Obsolete Product List: </br>
 https://support.apple.com/en-us/HT201624 </p>
