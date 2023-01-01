@@ -15,6 +15,8 @@ https://web.archive.org/web/*/https://www-01.ibm.com/chips/techlib/techlib.nsf/t
 https://web.archive.org/web/*/https://www-01.ibm.com/chips/techlib/techlib.nsf/techdocs/78AFC0C662E2882D872571DB0051FAA4/$file/PPC970FX_945_DG_31Oct2007_pub.pdf </br>
 https://web.archive.org/web/*/http://www-01.ibm.com/chips/techlib/techlib.nsf/techdocs/2CE5F8151C674FB7872571BC005C7265/$file/PPC970MP_DG_pub_13Sept2007.pdf </p>
 
+IBM CPC825 / Apple U3 NorthBridge: </p>
+
 IBM CPC945 / Apple U4 NorthBridge: </br>
 2x 625MHz unidirectional processor buses, </br>
 2x memory controllers that support 64GB of 533 MHz DDR2 SDRAM with ECC capability, </br>
@@ -115,7 +117,9 @@ G5 Late 2005 https://support.apple.com/kb/SP37?locale=en_US </p>
 Viginia-Tech Systen-X </br>
 2003 System was 1100 PowerMac G5 </br>
 https://www.youtube.com/watch?v=vLujLtgBJC0 </br>
-2005 System was 1100 Xserve G5 </br>
+2004 System was 1100 Xserve G5 </br>
+https://web.archive.org/web/20040805072529/http://www.tcf.vt.edu:80/systemX.html </br>
+https://web.archive.org/web/20070606024231/http://www.tcf.vt.edu/systemX.html </br>
 https://www.evl.uic.edu/julian/cs466/ </p>
 
 Obsolete Product List: </br>
