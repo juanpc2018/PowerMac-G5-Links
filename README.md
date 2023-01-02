@@ -27,7 +27,7 @@ Was fabricated in a 90nm process. </p>
 https://web.archive.org/web/*/http://www-01.ibm.com/chips/techlib/techlib.nsf/techdocs/B2BBA0230B9B9BF4872570EB006DAB7B/$file/CPC945UM.GA.2008FEB01_pub.pdf </p>
 
 More IBM pdf: </br>
-https://web.archive.org/web/*/https://www-01.ibm.com/chips/techlib/techlib.nsf/techdocs/* </p>
+[https://web.archive.org/web/*/https://www-01.ibm.com/chips/techlib/techlib.nsf/techdocs/*](https://web.archive.org/web/*/https://www-01.ibm.com/chips/techlib/techlib.nsf/techdocs/*) </p>
 
 CHRP: </br>
 http://bitsavers.informatik.uni-stuttgart.de/pdf/apple/powerpc/CHRP/ </p>
@@ -169,10 +169,10 @@ Cinebench 2003 is the Only test available for G4, G5 & Windows. </br>
 https://web.archive.org/web/*/https://http.maxon.net/pub/benchmarks/cinebench_2003.sit </br>
 https://web.archive.org/web/*/http://http.maxon.net/pub/benchmarks/cinebench_2003_g5.sit </br>
 https://web.archive.org/web/*/http://http.maxon.net/pub/benchmarks/cinebench_2003.zip </br>
-https://web.archive.org/web/*/http://http.maxon.net/pub/benchmarks/* </p>
+[https://web.archive.org/web/*/http://http.maxon.net/pub/benchmarks/*](https://web.archive.org/web/*/http://http.maxon.net/pub/benchmarks/*) </p>
 
 PowerPC 604e Books (1997) </br>
-https://web.archive.org/web/*/http://the.wall.riscom.net/* </p>
+[https://web.archive.org/web/*/http://the.wall.riscom.net/*](https://web.archive.org/web/*/http://the.wall.riscom.net/*) </p>
 Web version of The PowerPC Compiler Writer's Guide (1996) </br>
 https://web.archive.org/web/20070608053649/http://the.wall.riscom.net/books/proc/ppc/cwg/cwg_toc.html </br>
 PDF: </br>
