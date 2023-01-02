@@ -24,6 +24,10 @@ x16 PCIe lane </br>
 800 MHz 16-bit HyperTransport tunnel. </br> 
 Was fabricated in a 90nm process. </p>
 
+The Planned Next Generation CPC965 / Apple U5 </br>
+had embedded PowerPC405 CPUs, that means the New Virtex-4 can be used to replace the abandoned CPC965 project.</br>
+https://www.xilinx.com/products/silicon-devices/fpga/virtex-4q/modals/powerpc-32-bit-risc-processor.html </br>
+
 https://web.archive.org/web/*/http://www-01.ibm.com/chips/techlib/techlib.nsf/techdocs/B2BBA0230B9B9BF4872570EB006DAB7B/$file/CPC945UM.GA.2008FEB01_pub.pdf </p>
 
 More IBM pdf: </br>
@@ -68,8 +72,12 @@ https://archive.org/details/os2-powerpc </br>
 https://archive.org/details/solaris251ppc </br>
 1998 BeOS 3 </br>
 https://archive.org/details/be-os-3 </br>
+https://archive.org/details/BeOSRelease3PowerPC </br>
 Debian 2.2 CD1 </br>
 https://archive.org/details/Debian-GNULinux-2.2-arch-powerpc-CD </br>
+Ubuntu 5.04 </br>
+https://archive.org/details/Ubuntu_Live_CD_Version_5.04_for_PowerPC </br>
+https://archive.org/details/Ubuntu_Install_CD_Version_5.04_for_PowerPC </br>
 Kubuntu 5.04 </br>
 https://archive.org/details/kubuntu-5.04-dvd-powerpc </br>
 https://archive.org/details/kubuntu-5.04-install-powerpc </br>
@@ -79,6 +87,8 @@ https://archive.org/details/ubuntupowerpcbreezy </br>
 Kubuntu 5.10 </br>
 https://archive.org/details/kubuntu-5.10-live-powerpc </br>
 https://archive.org/details/kubuntu-5.10-install-powerpc </br>
+TurboLinux 6 "Linux 2.1" </br>
+https://archive.org/details/turbolinux6ppc </br>
 edubuntu 6.06.1 </br>
 https://archive.org/details/edubuntu-6.06.1-live-powerpc </br>
 https://archive.org/details/edubuntu-6.06.1-install-powerpc </br>
@@ -93,11 +103,16 @@ https://archive.org/details/kubuntu-6.06-dvd-powerpc </br>
 Kubuntu 6.10 </br>
 https://archive.org/details/kubuntu-6.10-desktop-powerpc </br>
 https://archive.org/details/kubuntu-6.10-alternate-powerpc </br>
+SuSE Linux 7.1 </br>
+https://archive.org/details/SuSE_Linux_7.1_PowerPC_Edition_SU7100.001 </br>
+Ubuntu 9.04 </br>
+https://archive.org/details/ubuntu-9.04-powerpc-ps3 </br>
 Ubuntu 10.10 </br>
 https://archive.org/details/ubuntu-10.10-powerpc </br>
 Ubuntu Mate 14.04.1 </br>
 https://archive.org/details/ubuntu-mate-14.04.1-dev.34508-desktop-powerpc </br>
-
+OSX SnowLeopard 10.6 </br>
+https://archive.org/details/10.6-snowleopard-10a-190-clientdvd </br>
 OSX 10.5.9 Sobet (2022) </br>
 https://macintoshgarden.org/apps/sorbet-leopard </br>
 Fienix 5.1 (2022) </br>
@@ -106,6 +121,9 @@ Adelie Linux: </br>
 https://www.adelielinux.org/ </br>
 Yellow Dog Linux (1999) </br>
 http://ftp.caliu.cat/pub/distribucions/yellowdog/iso/ </br>
+YDL 5.0.2 https://archive.org/details/yellowdog-5.0.2-20070627-ppc-ps3 </br>
+YDL 6.1 https://archive.org/details/yellowdog-6.1-ppc-DVD_20090201_NEW_PS3 </br>
+YDL 6.2 https://archive.org/details/yellowdog-6.2-ppc-DVD_20090629 </br>
 Lubuntu 16.04.4 LTS Xenial Xerus PPC </br>
 http://mirror.datto.com/ubuntu-releases/lubuntu/releases/16.04.4/release/ </br>
 Ubuntu Mate 16.04.4 </br>
@@ -243,3 +261,15 @@ Web version of The PowerPC Compiler Writer's Guide (1996) </br>
 https://web.archive.org/web/20070608053649/http://the.wall.riscom.net/books/proc/ppc/cwg/cwg_toc.html </br>
 PDF: </br>
 https://archive.org/details/powerpc-cwg </p>
+
+Forums: </br>
+https://misterfpga.org/viewtopic.php?t=1400 </br>
+https://www.edaboard.com/threads/what-is-the-fpga-with-powerpc-core.70554/ </br>
+
+FPGA Projects: </br>
+http://www1.cs.columbia.edu/~sedwards/apple2fpga/ </br>
+https://web.archive.org/web/20081005201922/http://mirrow.com/FPGApple/ </br>
+https://github.com/evansm7/MR-hw </br>
+https://github.com/shenki/linux-on-microwatt </br>
+https://github.com/ProbablyNotArtyom/Amaranth </br>
+https://hackaday.io/project/166535/logs </br>
