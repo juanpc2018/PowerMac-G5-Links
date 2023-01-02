@@ -31,7 +31,7 @@ IBM CPC945 / Apple U4 NorthBridge: </br>
 2x memory controllers that support 64GB of 533 MHz DDR2 SDRAM with ECC capability, </br>
 x16 PCIe lane </br>
 800 MHz 16-bit HyperTransport tunnel. </br> 
-Was fabricated in a 90nm process. </p>
+Was fabricated in 90nm process. </p>
 
 The Planned Next Generation CPC965 / Apple U5 </br>
 had embedded PowerPC405 CPUs, that means the New Virtex-4 can be used to replace the abandoned CPC965 project.</br>
