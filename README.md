@@ -57,8 +57,47 @@ https://www.realworldtech.com/ppc970/ </br>
 https://translated.turbopages.org/proxy_u/ru-en.en.84bd174a-63b0d3a3-3992663c-74722d776562/https/bytemag.ru/miikroprocessorie-power-ii-powerp-2649/ </p>
 
 Operating systems: </br>
+1994 WindowsNT 3.5 </br>
+https://archive.org/details/NT3.5PPC </br>
+https://archive.org/details/VCPP4.00RISCPowerPC </br>
+1994 OS/2 Beta1 </br>
+https://archive.org/details/os2-ppc-beta1-sdk </br>
+1995 OS/2 Warp </br>
+https://archive.org/details/os2-powerpc </br>
+1996 Solaris 2.5.1 </br>
+https://archive.org/details/solaris251ppc </br>
+1998 BeOS 3 </br>
+https://archive.org/details/be-os-3 </br>
+Debian 2.2 CD1 </br>
+https://archive.org/details/Debian-GNULinux-2.2-arch-powerpc-CD </br>
+Kubuntu 5.04 </br>
+https://archive.org/details/kubuntu-5.04-dvd-powerpc </br>
+https://archive.org/details/kubuntu-5.04-install-powerpc </br>
+https://archive.org/details/kubuntu-5.04-live-powerpc </br>
 Ubuntu 5.10 for PPC (1990s) </br>
 https://archive.org/details/ubuntupowerpcbreezy </br>
+Kubuntu 5.10 </br>
+https://archive.org/details/kubuntu-5.10-live-powerpc </br>
+https://archive.org/details/kubuntu-5.10-install-powerpc </br>
+edubuntu 6.06.1 </br>
+https://archive.org/details/edubuntu-6.06.1-live-powerpc </br>
+https://archive.org/details/edubuntu-6.06.1-install-powerpc </br>
+https://archive.org/details/edubuntu-6.06.1-dvd-powerpc </br>
+kubuntu 6.06.1 </br>
+https://archive.org/details/kubuntu-6.06.1-desktop-powerpc </br>
+https://archive.org/details/kubuntu-6.06.1-dvd-powerpc </br>
+https://archive.org/details/kubuntu-6.06.1-alternate-powerpc </br>
+https://archive.org/details/kubuntu-6.06-desktop-powerpc </br>
+https://archive.org/details/kubuntu-6.06-alternate-powerpc </br>
+https://archive.org/details/kubuntu-6.06-dvd-powerpc </br>
+Kubuntu 6.10 </br>
+https://archive.org/details/kubuntu-6.10-desktop-powerpc </br>
+https://archive.org/details/kubuntu-6.10-alternate-powerpc </br>
+Ubuntu 10.10 </br>
+https://archive.org/details/ubuntu-10.10-powerpc </br>
+Ubuntu Mate 14.04.1 </br>
+https://archive.org/details/ubuntu-mate-14.04.1-dev.34508-desktop-powerpc </br>
+
 OSX 10.5.9 Sobet (2022) </br>
 https://macintoshgarden.org/apps/sorbet-leopard </br>
 Fienix 5.1 (2022) </br>
