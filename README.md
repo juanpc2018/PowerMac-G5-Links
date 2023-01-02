@@ -89,24 +89,24 @@ https://voidlinux-ppc.org/ Not https://voidlinux.org/ </br>
 https://repo.voidlinux-ppc.org/live/current/ </br>
 Hardware support </br>
 Most distributions now support only 64-bit little endian hardware. Void-ppc aims to change this and work on a wide variety of hardware.
-The little endian builds require POWER8 or newer, but the big endian flavor starts with 970/G5 (64-bit, AltiVec is required), while the 32-bit builds are completely generic.
+The little endian builds require POWER8 or newer, but the big endian flavor starts with 970/G5 (64-bit, AltiVec is required), while the 32-bit builds are completely generic. </br>
 C library support </br>
 The big endian variants are provided with glibc. Little endian versions come in both glibc and musl flavors. </br>
 Void-ppc uses a variant of the modern ELFv2 ABI (loosened not to impose the POWER8/VSX requirements of the specification) on 64-bit glibc, as the only distribution known to do so. </br>
 ppc64le requirements: </br>
-At least a POWER8 CPU or equivalent (POWER ISA 2.07, with little endian AltiVec/VSX support; notably e6500 is not supported) </br>
+POWER8 CPU or equivalent (POWER ISA 2.07, with little endian AltiVec/VSX support; notably e6500 is not supported) </br>
 Currently OpenFirmware (SLOF) and OpenPOWER based systems are tested </br>
 ppc64 requirements: </br>
-At least a PowerPC 970 CPU or equivalent (AltiVec required; so 970/G5, Cell, POWER6/7/8/9, e6500 will work, while e5500 and POWER4/POWER5 will not)
+PowerPC 970/G5 CPU or equivalent (AltiVec required; 970/G5, Cell, POWER6/7/8/9, e6500 will work, while e5500 and POWER4/POWER5 will not) </br>
 Currently OpenFirmware (SLOF, Apple) and OpenPOWER based systems are tested. </br>
 ppc generic requirements: </br>
-generic PowerPC CPU </br>
+PowerPC CPU </br>
 Currently OpenFirmware based Apple systems are tested. </br>
 Login: anon/root, password: voidlinux. </p>
 
 powerpc ISOs will work G3, G4, and G5. </br>
 ppc64 ISOs Only work on G5s, kernel and userspace fully 64-bit but...</br>
-some are buggier than powerpc "32-Bit". </p>
+some 64-Bit are buggier vs. same but 32-Bit version. </p>
 
 Browsers: </br>
 Arctic Fox </br>
