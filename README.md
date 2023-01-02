@@ -314,3 +314,11 @@ https://github.com/evansm7/MR-hw </br>
 https://github.com/shenki/linux-on-microwatt </br>
 https://github.com/ProbablyNotArtyom/Amaranth </br>
 https://hackaday.io/project/166535/logs </br>
+
+
+Selected .pdfs: </br>
+most .pdf are 300 to 600 pages, but the Minimal to... series are between 40-50 pages. </br>
+https://ia903408.us.archive.org/5/items/manualzilla-id-5871251/5871251.pdf </br>
+https://ia803402.us.archive.org/14/items/manualzilla-id-5863007/5863007.pdf </br>
+https://ia904501.us.archive.org/19/items/manualzilla-id-7336928/7336928.pdf </br>
+https://ia804507.us.archive.org/30/items/manualzilla-id-7355388/7355388.pdf </br>
