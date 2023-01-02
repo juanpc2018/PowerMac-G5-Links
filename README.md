@@ -85,6 +85,8 @@ https://archive.org/details/VCPP4.00RISCPowerPC </br>
 https://archive.org/details/os2-ppc-beta1-sdk </br>
 1995 OS/2 Warp </br>
 https://archive.org/details/os2-powerpc </br>
+1995 BeOS 1.1 </br>
+https://archive.org/details/be-os-1-1d-6 </br>
 1996 Solaris 2.5.1 </br>
 https://archive.org/details/solaris251ppc </br>
 1998 BeOS 3 </br>
@@ -205,15 +207,14 @@ MacOS </br>
 8.1 https://archive.org/details/691-0000-AMac_OS_v8.1_Universal_M68K_and_PowerPC_CD </br>
 8.5 https://archive.org/details/691-0000-AMac_OS_v8.5_Universal_M68K_and_PowerPC_CD </br>
 
-
 Browsers: </br>
 Arctic Fox </br>
 NetSurf </p>
 
 Diagnostics: </br>
-v2.6.3 for PowerMac G5 2005 Late </br>
-v2.5.8 for PowerMac G5 2005 Early and older 2003-2004 </br>
+v2.5.8 for PowerMac G5 2005 Early and older 2004-2003 </br>
 https://www.macintoshrepository.org/33373-apple-service-diagnostic-2-6-3 </br>
+v2.6.3 for PowerMac G5 2005 Late </br>
 https://www.macintoshrepository.org/42546-apple-service-diagnostic-2-5-8 </br>
 Complete ASD List: https://boards.rossmanngroup.com/threads/apple-asd-reference-list.35818/ </p>
 
