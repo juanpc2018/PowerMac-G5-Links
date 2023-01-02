@@ -39,15 +39,23 @@ https://www.xilinx.com/products/silicon-devices/fpga/virtex-4q/modals/powerpc-32
 
 https://web.archive.org/web/*/http://www-01.ibm.com/chips/techlib/techlib.nsf/techdocs/B2BBA0230B9B9BF4872570EB006DAB7B/$file/CPC945UM.GA.2008FEB01_pub.pdf </p>
 
-More IBM pdf: </br>
+Old IBM stuff: </br>
+https://web.archive.org/web/20080212180839/http://www-128.ibm.com/developerworks/power/newto/ </br>
+https://web.archive.org/web/20071022042932/http://www.power.org/resources/reading/ </br>
 [https://web.archive.org/web/*/https://www-01.ibm.com/chips/techlib/techlib.nsf/techdocs/*](https://web.archive.org/web/*/https://www-01.ibm.com/chips/techlib/techlib.nsf/techdocs/*) </p>
+https://web.archive.org/web/20071030005211/http://www-03.ibm.com/technology/ges/semiconductor/power/index.html </br>
+https://web.archive.org/web/20071031031318/http://www.power.org/home </br>
+https://web.archive.org/web/20071030132258/http://www.ibm.com/developerworks/views/power/downloads.jsp </br>
+https://web.archive.org/web/20080305070842mp_/http://www.ibm.com/developerworks/power </br>
+https://web.archive.org/web/20090123224001/http://www.ibm.com/developerworks/power/iss/?S_TACT=105AGX16&S_CMP=padldviews </br>
+https://web.archive.org/web/20080213143743/http://www.eclipse.org/downloads/ </br>
 
 CHRP: </br>
 http://bitsavers.informatik.uni-stuttgart.de/pdf/apple/powerpc/CHRP/ </p>
 
-Single Processor: </br>
+SP, Single Processor: </br>
 https://developer.apple.com/library/archive/documentation/Hardware/Developer_Notes/Macintosh_CPUs-G5/PowerMacG5_SP/0Preface/Q78_pref.html#//apple_ref/doc/uid/TP40001481 </br>
-DC DP Dual Core, Dual Processor: "dual/quad" </br>
+DC DP: Dual Core, Dual Processor: "quad" </br>
 https://developer.apple.com/library/archive/documentation/Hardware/Developer_Notes/Macintosh_CPUs-G5/PowerMacG5/0Preface/Q87_pref.html#//apple_ref/doc/uid/TP40002012 </p>
 
 https://developer.apple.com/library/archive/documentation/Hardware/Conceptual/PowerMac_G5_05Oct/Introduction/PwrMacG5-0510_pref.html#//apple_ref/doc/uid/TP40003534 </br>
