@@ -7,6 +7,15 @@ Schematics, Tech Notes, OpenFirmware, Fimware updates, Service Manuals, Diagnost
 Wiki: </br>
 https://en.wikipedia.org/wiki/Power_Mac_G5 </br>
 https://en.wikipedia.org/wiki/PowerPC_970 </br>
+https://en.wikipedia.org/wiki/AltiVec </br>
+https://en.wikipedia.org/wiki/Common_Hardware_Reference_Platform </br>
+https://en.wikipedia.org/wiki/AIM_alliance </br>
+https://en.wikipedia.org/wiki/PowerPC_Reference_Platform </br>
+https://en.wikipedia.org/wiki/Power_Architecture_Platform_Reference </br>
+https://en.wikipedia.org/wiki/Cell_(processor) </br>
+https://web.archive.org/web/20120201132638/http://www.rtems.com/wiki/index.php/Qemuprep </br>
+ftp://ftp.software.ibm.com/rs6000/technology/spec/ </br>
+
 https://web.archive.org/web/20140522012345/https://www-01.ibm.com/chips/techlib/techlib.nsf/techdocs/DC3D43B729FDAD2C00257419006FB955/$file/970FX_user_manual.v1.7.2008MAR14_pub.pdf </br>
 https://web.archive.org/web/*/http://www-01.ibm.com/chips/techlib/techlib.nsf/techdocs/16E15AC4CA4A238D8725703D00803F33/$file/PPC970FX_IFACE_TUN_AN.pdf </br>
 https://web.archive.org/web/*/http://www-01.ibm.com/chips/techlib/techlib.nsf/techdocs/1DE505664D202D2987256D9C006B90A5/$file/PPC970FX_DS_DD3.X_V2.3.pdf </br>
@@ -73,6 +82,7 @@ https://archive.org/details/solaris251ppc </br>
 1998 BeOS 3 </br>
 https://archive.org/details/be-os-3 </br>
 https://archive.org/details/BeOSRelease3PowerPC </br>
+https://archive.org/details/beosrelease3intel </br>
 Debian 2.2 CD1 </br>
 https://archive.org/details/Debian-GNULinux-2.2-arch-powerpc-CD </br>
 Ubuntu 5.04 </br>
@@ -105,14 +115,26 @@ https://archive.org/details/kubuntu-6.10-desktop-powerpc </br>
 https://archive.org/details/kubuntu-6.10-alternate-powerpc </br>
 SuSE Linux 7.1 </br>
 https://archive.org/details/SuSE_Linux_7.1_PowerPC_Edition_SU7100.001 </br>
+Debian 8.11 </br>
+https://archive.org/details/debian-8.11.0-powerpc-DVD-1 </br>
 Ubuntu 9.04 </br>
 https://archive.org/details/ubuntu-9.04-powerpc-ps3 </br>
+https://archive.org/details/ubuntu-9.04-server-powerpcps3 </br>
+https://archive.org/details/ubuntu-9.04-desktop-powerpcps3 </br>
+https://archive.org/details/ubuntu-9.04-alternate-powerpcps3 </br>
+Kubuntu 9.04 </br>
+https://archive.org/details/kubuntu-9.04-alternate-powerpcps3 </br>
+Xubuntu 9.04 </br>
+https://archive.org/details/xubuntu-9.04-desktop-powerpcps3 </br>
+Ubuntu 10.04 </br>
+https://archive.org/details/ubuntu-10.04-powerpc-ps3 </br>
 Ubuntu 10.10 </br>
 https://archive.org/details/ubuntu-10.10-powerpc </br>
 Ubuntu Mate 14.04.1 </br>
 https://archive.org/details/ubuntu-mate-14.04.1-dev.34508-desktop-powerpc </br>
 OSX SnowLeopard 10.6 </br>
-https://archive.org/details/10.6-snowleopard-10a-190-clientdvd </br>
+10A96 DP https://archive.org/details/10.6-snowleopard-dp-10-a-96-clientdvd </br>
+10A190 https://archive.org/details/10.6-snowleopard-10a-190-clientdvd </br>
 OSX 10.5.9 Sobet (2022) </br>
 https://macintoshgarden.org/apps/sorbet-leopard </br>
 Fienix 5.1 (2022) </br>
