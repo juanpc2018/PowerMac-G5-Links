@@ -202,7 +202,7 @@ Login: anon/root, password: voidlinux. </p>
 
 powerpc ISOs will work G3, G4, and G5. </br>
 ppc64 ISOs Only work on G5s, kernel and userspace fully 64-bit but...</br>
-some 64-Bit are buggier vs. same 32-Bit version. </p>
+some 64-Bit are buggier vs. same 32-Bit version. "64-Bit was in Early Stage." </p>
 
 MacOS </br>
 7.1 https://archive.org/details/691-0000-AMac_OS_v7.1_Universal_M68K_and_PowerPC_CD </br>
