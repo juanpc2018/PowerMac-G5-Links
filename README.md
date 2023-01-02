@@ -74,18 +74,19 @@ http://mirror.datto.com/ubuntu-releases/ubuntu-mate/releases/16.04.4/release/ </
 Ubuntu Server 16.04.4 </br>
 http://mirror.datto.com/ubuntu-releases/releases/16.04.4/release/ </br>
 http://mirror.datto.com/ubuntu-releases/ubuntu/releases/16.04.4/release/ </br>
-Debian 11 </br>
+Debian 11.x </br>
 https://cdimage.debian.org/cdimage/ports/current/ </br>
 https://forums.macrumors.com/threads/debian-sid-installation-guide-powerpc.2146795/ </br>
 https://cdimage.debian.org/debian-cd/current/ppc64el/bt-dvd/ </br>
 Ubuntu Base </br>
 http://mirror.datto.com/ubuntu-releases/ubuntu-base/releases/16.04.4/release/ </br>
-24x Debian: </br>
+24x Fedora: </br>
 https://torrent.fedoraproject.org/ </br>
+MorphOS 3.17 (2022) </br>
+https://www.morphos-team.net/downloads </br>
 powerpc ISOs will work G3, G4, and G5. </br>
 ppc64 ISOs Only work on G5s, kernel and userspace fully 64-bit but...</br>
 buggier than powerpc "32-Bit". </p>
-
 
 Browsers: </br>
 Arctic Fox </br>
