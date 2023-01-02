@@ -24,7 +24,7 @@ https://web.archive.org/web/*/https://www-01.ibm.com/chips/techlib/techlib.nsf/t
 https://web.archive.org/web/*/https://www-01.ibm.com/chips/techlib/techlib.nsf/techdocs/78AFC0C662E2882D872571DB0051FAA4/$file/PPC970FX_945_DG_31Oct2007_pub.pdf </br>
 https://web.archive.org/web/*/http://www-01.ibm.com/chips/techlib/techlib.nsf/techdocs/2CE5F8151C674FB7872571BC005C7265/$file/PPC970MP_DG_pub_13Sept2007.pdf </p>
 
-IBM CPC825 / Apple U3 NorthBridge: </p>
+IBM CPC925 / Apple U3 NorthBridge: </p>
 support up to two PowerPC 970s or PowerPC 970FXs </br>
 two 550 MHz unidirectional processor buses, </br>
 a 400 MHz DDR memory controller, </br>
