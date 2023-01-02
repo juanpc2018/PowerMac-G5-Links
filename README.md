@@ -1,5 +1,5 @@
 ## PowerMac G5 Links 
-v1.00000012
+v1.00000013
 
 The Purpose is to collect in 1 place all information available about Apple PowerMac G5 (2003-2005). </br>
 Schematics, Tech Notes, OpenFirmware, Fimware updates, Service Manuals, Diagnostics, compatible OS, etc... </p>
@@ -57,14 +57,14 @@ https://www.realworldtech.com/ppc970/ </br>
 https://translated.turbopages.org/proxy_u/ru-en.en.84bd174a-63b0d3a3-3992663c-74722d776562/https/bytemag.ru/miikroprocessorie-power-ii-powerp-2649/ </p>
 
 Operating systems: </br>
-Ubuntu 5.10 for PPC </br>
+Ubuntu 5.10 for PPC (1990s) </br>
 https://archive.org/details/ubuntupowerpcbreezy </br>
 OSX 10.5.9 Sobet (2022) </br>
 https://macintoshgarden.org/apps/sorbet-leopard </br>
-Fienix 5.10 (2022) </br>
+Fienix 5.1 (2022) </br>
 http://fienixppc.blogspot.com/ </br>
 Adelie Linux: </br>
-https://www.adelielinux.org/ </p>
+https://www.adelielinux.org/ </br>
 Yellow Dog Linux (1999) </br>
 http://ftp.caliu.cat/pub/distribucions/yellowdog/iso/ </br>
 Lubuntu 16.04.4 LTS Xenial Xerus PPC </br>
