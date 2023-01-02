@@ -85,6 +85,8 @@ https://archive.org/details/BeOSRelease3PowerPC </br>
 https://archive.org/details/beosrelease3intel </br>
 Debian 2.2 CD1 </br>
 https://archive.org/details/Debian-GNULinux-2.2-arch-powerpc-CD </br>
+2004 Ubuntu 4.10 PPC </br>
+https://archive.org/details/warty-release-install-powerpc-27-01-22 </br>
 Ubuntu 5.04 </br>
 https://archive.org/details/Ubuntu_Live_CD_Version_5.04_for_PowerPC </br>
 https://archive.org/details/Ubuntu_Install_CD_Version_5.04_for_PowerPC </br>
@@ -186,6 +188,15 @@ Login: anon/root, password: voidlinux. </p>
 powerpc ISOs will work G3, G4, and G5. </br>
 ppc64 ISOs Only work on G5s, kernel and userspace fully 64-bit but...</br>
 some 64-Bit are buggier vs. same but 32-Bit version. </p>
+
+MacOS </br>
+7.1 https://archive.org/details/691-0000-AMac_OS_v7.1_Universal_M68K_and_PowerPC_CD </br>
+7.5 https://archive.org/details/691-0000-AMac_OS_v7.5_Universal_M68K_and_PowerPC_CD </br>
+7.6.1 https://archive.org/details/691-0000-AMac_OS_v7.6.1_Universal_M68K_and_PowerPC_CD </br>
+8.0 https://archive.org/details/691-0000-AMac_OS_v8.0_Universal_M68K_and_PowerPC_CD </br>
+8.1 https://archive.org/details/691-0000-AMac_OS_v8.1_Universal_M68K_and_PowerPC_CD </br>
+8.5 https://archive.org/details/691-0000-AMac_OS_v8.5_Universal_M68K_and_PowerPC_CD </br>
+
 
 Browsers: </br>
 Arctic Fox </br>
