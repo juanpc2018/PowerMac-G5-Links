@@ -163,7 +163,14 @@ Benchmarks: </br>
 https://lowendmac.com/2014/how-fast-is-classic-mode-on-a-power-mac-g5/ </br>
 Speedometer 3 68k has a very different way to Measure Dhrystones vs. Amiga Sysinfo 68k. </br>
 a MacClassic 68K 8Mhz measures 600K Dhrystones, but same CPU in Amiga SysInfo measures 3600 Dhrystones at 50Mhz. </br>
-https://youtu.be/698lVfoSvX0?list=UUkb4bw4N19d-x_tn2FXLojQ </p>
+https://youtu.be/698lVfoSvX0?list=UUkb4bw4N19d-x_tn2FXLojQ 
+source .c :
+https://netlib.org/benchmark/ 
+Scores:
+PowerPC 604 Place #42 to #48 in this list:
+https://netlib.org/performance/html/dhrystone.data.col0.html </br>
+Other Benchmark lists: </br>
+http://www.roylongbottom.org.uk/dhrystone%20results.htm </p>
 
 Cinebench 2003 is the Only test available for G4, G5 & Windows. </br>
 https://web.archive.org/web/*/https://http.maxon.net/pub/benchmarks/cinebench_2003.sit </br>
