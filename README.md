@@ -180,14 +180,14 @@ https://voidlinux-ppc.org/ Not https://voidlinux.org/ </br>
 https://repo.voidlinux-ppc.org/live/current/ </br>
 Hardware support </br>
 
-Most Linux distributions for PPC support only 64-bit little.endian (LE) hardware. </br>
+Most 64-Bit Linux distributions for PPC support only little.endian (LE) hardware. </br>
 Void-ppc aims to change that to work on a wide variety of hardware. </br>
-The little.endian (LE) builds require POWER8 or newer, but the big.endian (BE) starts with 970/G5 (64-bit, AltiVec is required), </br>
-Void-PPC 32-bit builds are completely generic. </br>
+little.endian (LE) require POWER8 or newer, but big.endian (BE) starts with 970/G5 (64-bit, AltiVec required) </br>
+Void-PPC 32-bit are completely generic. </br>
 C library support: </br>
 Big.Endian (BE) variants are provided with glibc. </br>
 little.endian (LE) versions come in both glibc and musl. </br>
-Void-ppc uses a variant of the modern ELFv2 ABI (loosened not to impose the POWER8/VSX requirements) on 64-bit glibc, as the only distribution known to do so. </br>
+Void-ppc uses a variant of the modern ELFv2 ABI (loosened not to impose POWER8/VSX requirements) on 64-bit glibc, as the only distribution known to do so. </br>
 ppc64le requirements: </br>
 POWER8 CPU or equivalent (POWER ISA 2.07, with little.endian (LE) AltiVec/VSX support; e6500 is not supported) </br>
 OpenFirmware (SLOF) and OpenPOWER based systems are tested </br>
@@ -201,8 +201,8 @@ Currently OpenFirmware based Apple systems are tested. </br>
 Login: anon/root, password: voidlinux. </p>
 
 powerpc ISOs will work G3, G4, and G5. </br>
-ppc64 ISOs Only work on G5s, kernel and userspace fully 64-bit but...</br>
-some 64-Bit are buggier vs. same 32-Bit version. "64-Bit was in Early Stage." </p>
+ppc64 ISOs Only work with G5s, kernel and userspace fully 64-bit...</br>
+but some 64-Bit are buggier vs. 32-Bit version. "64-Bit was in Early Stage." </p>
 
 MacOS </br>
 7.1 https://archive.org/details/691-0000-AMac_OS_v7.1_Universal_M68K_and_PowerPC_CD </br>
