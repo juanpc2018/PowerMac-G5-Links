@@ -24,22 +24,22 @@ https://web.archive.org/web/*/https://www-01.ibm.com/chips/techlib/techlib.nsf/t
 https://web.archive.org/web/*/https://www-01.ibm.com/chips/techlib/techlib.nsf/techdocs/78AFC0C662E2882D872571DB0051FAA4/$file/PPC970FX_945_DG_31Oct2007_pub.pdf </br>
 https://web.archive.org/web/*/http://www-01.ibm.com/chips/techlib/techlib.nsf/techdocs/2CE5F8151C674FB7872571BC005C7265/$file/PPC970MP_DG_pub_13Sept2007.pdf </p>
 
-IBM CPC925 / Apple U3 NorthBridge: </p>
-support up to two PowerPC 970s or PowerPC 970FXs </br>
-two 550 MHz unidirectional processor buses, </br>
-a 400 MHz DDR memory controller, </br>
+IBM CPC925 / Apple U3 NorthBridge: </br>
+supports 2x PowerPC 970 or 970FX </br>
+2x 550MHz Unidirectional processor buses, </br>
+400MHz DDR memory controller, </br>
 x8 AGP and a 400 MHz 16-bit HyperTransport tunnel. </br>
 Fabricated on 130nm process. </br>
 
 IBM CPC945 / Apple U4 NorthBridge: </br>
 2x 625MHz unidirectional processor buses, </br>
-2x memory controllers that support 64GB of 533 MHz DDR2 SDRAM with ECC capability, </br>
-x16 PCIe lane </br>
-800 MHz 16-bit HyperTransport tunnel. </br> 
-Was fabricated in 90nm process. </br>
+2x memory controllers support: 64GB 533MHz DDR2 SDRAM with ECC capability, </br>
+PCIe x16 lanes. </br>
+800MHz 16-bit HyperTransport tunnel. </br> 
+Fabricated in 90nm process. </br>
 
 The Planned Next Generation CPC965 / Apple U5 </br>
-had embedded PowerPC405 CPUs, that means the New Virtex-4 can be used to replace the abandoned CPC965 project.</br>
+had embedded PowerPC405 CPUs, means the New Virtex-4 can be used to replace the abandoned CPC965 project.</br>
 https://www.xilinx.com/products/silicon-devices/fpga/virtex-4q/modals/powerpc-32-bit-risc-processor.html </br>
 
 https://web.archive.org/web/*/http://www-01.ibm.com/chips/techlib/techlib.nsf/techdocs/B2BBA0230B9B9BF4872570EB006DAB7B/$file/CPC945UM.GA.2008FEB01_pub.pdf </p>
