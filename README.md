@@ -149,11 +149,6 @@ Ubuntu 10.10 </br>
 https://archive.org/details/ubuntu-10.10-powerpc </br>
 Ubuntu Mate 14.04.1 </br>
 https://archive.org/details/ubuntu-mate-14.04.1-dev.34508-desktop-powerpc </br>
-OSX SnowLeopard 10.6 </br>
-10A96 DP https://archive.org/details/10.6-snowleopard-dp-10-a-96-clientdvd </br>
-10A190 https://archive.org/details/10.6-snowleopard-10a-190-clientdvd </br>
-OSX 10.5.9 Sobet (2022) </br>
-https://macintoshgarden.org/apps/sorbet-leopard </br>
 Fienix 5.1 (2022) </br>
 http://fienixppc.blogspot.com/ </br>
 Adelie Linux (2022) </br>
@@ -216,6 +211,17 @@ MacOS </br>
 8.0 https://archive.org/details/691-0000-AMac_OS_v8.0_Universal_M68K_and_PowerPC_CD </br>
 8.1 https://archive.org/details/691-0000-AMac_OS_v8.1_Universal_M68K_and_PowerPC_CD </br>
 8.5 https://archive.org/details/691-0000-AMac_OS_v8.5_Universal_M68K_and_PowerPC_CD </br>
+1999 OSX Darwin 0.3 Open Source SDK https://archive.org/details/Darwin0.3CDCaseFront </br>
+2000 OSX 10.0 Darwin 1.0 Open Source SDK https://archive.org/details/Darwin1.0 </br>
+OSX 10.4 Tiger https://archive.org/details/macosx10.4tigerretaildvd </br>
+8A428 https://archive.org/details/mac-os-x-10.4-tiger-retail-dvd </br>
+OSX 10.4.2 https://archive.org/details/MacOSXTiger-10.4.2-InstallCDSet </br>
+OSX 10.5.4 9E25 https://archive.org/details/osx-leopard-install </br> 
+OSX SnowLeopard 10.6 </br>
+10A96 DP https://archive.org/details/10.6-snowleopard-dp-10-a-96-clientdvd </br>
+10A190 https://archive.org/details/10.6-snowleopard-10a-190-clientdvd </br>
+OSX 10.5.9 Sobet (2022) </br>
+https://macintoshgarden.org/apps/sorbet-leopard </br>
 
 Browsers: </br>
 Arctic Fox </br>
