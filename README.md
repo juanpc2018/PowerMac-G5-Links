@@ -28,13 +28,13 @@ IBM CPC925 / Apple U3 NorthBridge: </br>
 supports 2x PowerPC 970 or 970FX </br>
 2x 550MHz Unidirectional processor buses, </br>
 400MHz DDR memory controller, </br>
-x8 AGP and a 400 MHz 16-bit HyperTransport tunnel. </br>
+x8 AGP and a 400 MHz 16-bit HyperTransport tunnel, </br>
 Fabricated on 130nm process. </br>
 
 IBM CPC945 / Apple U4 NorthBridge: </br>
 2x 625MHz unidirectional processor buses, </br>
 2x memory controllers support: 64GB 533MHz DDR2 SDRAM with ECC capability, </br>
-PCIe x16 lanes. </br>
+PCIe x16 lanes, </br>
 800MHz 16-bit HyperTransport tunnel. </br> 
 Fabricated in 90nm process. </br>
 
