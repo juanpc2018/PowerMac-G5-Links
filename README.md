@@ -342,8 +342,8 @@ https://ia804507.us.archive.org/30/items/manualzilla-id-7355388/7355388.pdf </br
 
 -----
 
-G5 2005 Late has PCIe, but the problem is the drivers for OSX Tiges 10.4, Leopard 10.5.8, Sobet 10.5.9. </br>
-G5 has SATA-II 1.5Gbps, SATA-III 3Gbps PCIe would be a must have upgrade. </bt>
+G5 2005 Late has PCIe, but the problem is the drivers for OSX Tiger 10.4, Leopard 10.5.8, Sobet 10.5.9. </br>
+G5 has SATA-I 1.5Gbps 125MB/s, a faster SATA PCIe or SCSI PCIe card is a must have. </bt>
 
 https://www.firmtek.com/seritek/seritek-2me4-e/ </br>
 https://www.firmtek.com/seritek/seritek-e6g/
