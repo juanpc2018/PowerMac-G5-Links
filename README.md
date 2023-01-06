@@ -374,22 +374,22 @@ http://www.granitedigital.com/scsiproducts.aspx </br>
 
 most SCSI Scanners, CDROMs, HDDs, Samplers have SCSI-Async, SCSI-1 or SCSI-2 </br>
 with a 50HD SCSI connector or big 50-pin Centronix connector. </br> 
-
+A cable from Male VHDL68 to HD50 or Centronix works ok, when configured properly in the ATTO Bios or Tool. </br>
 Drivers & Tool: </br>
 https://macintoshgarden.org/apps/atto-ul4x-and-ul5x-scsi-ultra-320-drivers </br>
 Windows: </br>
 https://www.evernote.com/l/ASvz2axu66JOCpDWWK5x_W5V8ntnz9DZUDk/ </br>
 Latest Linux drivers & Tool can be found in 1 driver website. </br>
 
-HP Servers have a rebranded LowProfile card called: AH627-60001/2/3 </br>
-0001 Boxed from factory it came with LP and Full Size pcie brackets. </br>
+HP Servers have a rebranded LP PCIe card called: AH627-60001/2/3 </br>
+0001 Boxed from factory came with LP and Full Size pcie brackets. </br>
 The others 0002/0003 are probably the same but with a more recent Firmware. </br>
 To Update the Firmware on 60001 requires a real IDE Floppy drive, USB1.1 Floppy does Not work. </br>
 that method is a fail, better to install the Tool & Drivers in the Operating System, and update the FW. </br>
-Unknown if 2009 Firmware works with 2005 drivers, some PCI cards the FW change Big.Endian to litte.Endian and dont work. </br>
+Unknown if 2009 Firmware works with 2005 drivers, some PCI cards FW change Big.Endian to litte.Endian and dont work. </br>
 the latest Firwmware is 2009. </br>
 Old 2005 drivers, tool, firmware for Linux, Windows, OSX: </br>
 https://archive.org/details/ah62790901 </br>
-HP AH627-60001 comes with that CD box from factory, the others Unknown. </br>
+HP AH627-60001 comes with that CD from factory, the others Unknown. </br>
 
 ------
