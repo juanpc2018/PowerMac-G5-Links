@@ -368,25 +368,38 @@ SCSI cards are more easy to find... </br>
 ATTO UL4x PCI-X and UL5x PCIe cards seem to be the best option for OSX </br>
 UL5x had 2x versions: a Full Size with internal and external SCSI, </br>
 and LowProfile with external SCSI only. </br>
-Ultra320 cards has .68pitch VHDL68 ports, and SCSI requires Termination. </br>
-There are many Acme Brands, but GraniteDigital still the best. </br>
+Ultra320 cards have 0.8mm VHD68 female ports, </br>
+SCSI requires Termination. </br>
+There are many Acme Brands of SCSI cables, but GraniteDigital still the best. </br>
+SCSI maximum cable lenght depends on the Speed, usually is 6foot. </br>
 http://www.granitedigital.com/scsiproducts.aspx </br>
+http://www.granitedigital.com/688mmvhdm-50microdm3.aspx </br>
+http://www.granitedigital.com/688mmvhdm-50microdm6.aspx </br>
+http://www.granitedigital.com/688mmvhdm-50centm3.aspx </br>
+http://www.granitedigital.com/688mmvhdm-50centm6.aspx </br>
+http://www.granitedigital.com/50pincentronicsm.aspx </br>
+http://www.granitedigital.com/50pinmicrodm.aspx </br>
+
+There are industrial Solid State SCSI HDD replacements, </br>
+and many "DIY" SCSI to SD adapters for Amiga, Macintosh & Atari, Retro Computing. </br>
 
 most SCSI Scanners, CDROMs, HDDs, Samplers have SCSI-Async, SCSI-1 or SCSI-2 </br>
-with a 50HD SCSI connector or big 50-pin Centronix connector. </br> 
-A cable from Male VHDL68 to HD50 or Centronix works ok, when configured properly in the ATTO Bios or Tool. </br>
+with a HD50 SCSI connector or big 50-pin Centronix connector. </br> 
+A Male 0.8mm VHD68 cable to HD50 or Centronix works ok, when configured properly in the ATTO Bios/Tool. </br>
 Drivers & Tool: </br>
 https://macintoshgarden.org/apps/atto-ul4x-and-ul5x-scsi-ultra-320-drivers </br>
 Windows: </br>
 https://www.evernote.com/l/ASvz2axu66JOCpDWWK5x_W5V8ntnz9DZUDk/ </br>
 Latest Linux drivers & Tool can be found in 1 driver website. </br>
 
-HP Servers have a rebranded LP PCIe card called: AH627-60001/2/3 </br>
+HP Servers had a rebranded ATTO LP PCIe card called: AH627-60001/2/3 </br>
 0001 Boxed from factory came with LP and Full Size pcie brackets. </br>
 The others 0002/0003 are probably the same but with a more recent Firmware. </br>
 To Update the Firmware on 60001 requires a real IDE Floppy drive, USB1.1 Floppy does Not work. </br>
 that method is a fail, better to install the Tool & Drivers in the Operating System, and update the FW. </br>
-Unknown if 2009 Firmware works with 2005 drivers, some PCI cards FW change Big.Endian to litte.Endian and dont work. </br>
+Updating any Firmware Requires using a UPS. </br>
+Unknown if 2009 Firmware works with 2005 drivers,</br>
+some PCI cards, FW update change Big.Endian to litte.Endian and dont work. </br>
 the latest Firwmware is 2009. </br>
 Old 2005 drivers, tool, firmware for Linux, Windows, OSX: </br>
 https://archive.org/details/ah62790901 </br>
