@@ -342,8 +342,8 @@ https://ia804507.us.archive.org/30/items/manualzilla-id-7355388/7355388.pdf </br
 
 -----
 
-G5 2005 Late has PCIe, but the problem its the drivers for OSX Tiges, Leopard, Sobet. </br>
-also G5 has SATA-II 1.5Gbps, a SATA-III 3Gbps could be a nice upgrade. </bt>
+G5 2005 Late has PCIe, but the problem is the drivers for OSX Tiges 10.4, Leopard 10.5.8, Sobet 10.5.9. </br>
+G5 has SATA-II 1.5Gbps, SATA-III 3Gbps PCIe would be a must have upgrade. </bt>
 
 https://www.firmtek.com/seritek/seritek-2me4-e/ </br>
 https://www.firmtek.com/seritek/seritek-e6g/
@@ -361,11 +361,35 @@ https://www.sonnettech.com/product/legacyproducts/temposataiii6gbpcie.html
 https://areca.com.tw/products/sataadapters-1203.html
 https://www.highpoint-tech.com/legacy
 
-USB3.0 PCIe cards VIA & NEC some have drivers that work in OSX Mavericks 10.9.5
-much less in OSX PPC </br>
+USB3.0 PCIe cards VIA & NEC chip have drivers that work in OSX Mavericks 10.9.5
+i would forget about USB3.0 in PPC for Now. </br>
 
-SCSI cards are more easy to find...
+SCSI cards are more easy to find... </br>
 ATTO UL4x PCI-X and UL5x PCIe cards seem to be the best option for OSX </br>
-UL5x had a Full Size with internal and external SCSI
-https://macintoshgarden.org/apps/atto-ul4x-and-ul5x-scsi-ultra-320-drivers
-HP Servers have a rebranded LowProfile card External SCSI called: AH627-60001/2/3
+UL5x had 2x versions: a Full Size with internal and external SCSI, </br>
+and LowProfile with external SCSI only. </br>
+Ultra320 cards has .68pitch VHDL68 ports, and SCSI requires Termination. </br>
+There are many Acme Brands, but GraniteDigital still the best. </br>
+http://www.granitedigital.com/scsiproducts.aspx </br>
+
+most SCSI Scanners, CDROMs, HDDs, Samplers have SCSI-Async, SCSI-1 or SCSI-2 </br>
+with a 50HD SCSI connector or big 50-pin Centronix connector. </br> 
+
+Drivers & Tool: </br>
+https://macintoshgarden.org/apps/atto-ul4x-and-ul5x-scsi-ultra-320-drivers </br>
+Windows: </br>
+https://www.evernote.com/l/ASvz2axu66JOCpDWWK5x_W5V8ntnz9DZUDk/ </br>
+Latest Linux drivers & Tool can be found in 1 driver website. </br>
+
+HP Servers have a rebranded LowProfile card called: AH627-60001/2/3 </br>
+0001 Boxed from factory it came with LP and Full Size pcie brackets. </br>
+The others 0002/0003 are probably the same but with a more recent Firmware. </br>
+To Update the Firmware on 60001 requires a real IDE Floppy drive, USB1.1 Floppy does Not work. </br>
+that method is a fail, better to install the Tool & Drivers in the Operating System, and update the FW. </br>
+Unknown if 2009 Firmware works with 2005 drivers, some PCI cards the FW change Big.Endian to litte.Endian and dont work. </br>
+the latest Firwmware is 2009. </br>
+Old 2005 drivers, tool, firmware for Linux, Windows, OSX: </br>
+https://archive.org/details/ah62790901 </br>
+HP AH627-60001 comes with that CD box from factory, the others Unknown. </br>
+
+------
