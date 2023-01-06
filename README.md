@@ -398,10 +398,10 @@ The others 0002/0003 are probably the same but with a more recent Firmware. </br
 To Update the Firmware on 60001 requires a real IDE Floppy drive, USB1.1 Floppy does Not work. </br>
 that method is a fail, better to install the Tool & Drivers in the Operating System, and update the FW. </br>
 Updating any Firmware Requires using a UPS. </br>
-Unknown if 2009 Firmware works with 2005 drivers,</br>
-some PCI cards, FW update change Big.Endian to litte.Endian and dont work. </br>
+Unknown if 2009 Firmware works with 2006 drivers,</br>
+some PCI cards, FW update change Big.Endian (BE) to litte.Endian (LE) and dont work. </br>
 the latest Firwmware is 2009. </br>
-Old 2005 drivers, tool, firmware for Linix & Win: </br>
+Old 2006 drivers, tool, firmware for Linux & Win: </br>
 https://archive.org/details/ah62790901 </br>
 HP AH627-60001 comes with that CD from factory, the others Unknown. </br>
 
