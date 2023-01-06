@@ -333,10 +333,39 @@ https://github.com/shenki/linux-on-microwatt </br>
 https://github.com/ProbablyNotArtyom/Amaranth </br>
 https://hackaday.io/project/166535/logs </br>
 
-
 Selected .pdfs: </br>
 most .pdf are 300 to 600 pages, but the Minimal to... series are between 40-50 pages. </br>
 https://ia903408.us.archive.org/5/items/manualzilla-id-5871251/5871251.pdf </br>
 https://ia803402.us.archive.org/14/items/manualzilla-id-5863007/5863007.pdf </br>
 https://ia904501.us.archive.org/19/items/manualzilla-id-7336928/7336928.pdf </br>
 https://ia804507.us.archive.org/30/items/manualzilla-id-7355388/7355388.pdf </br>
+
+-----
+
+G5 2005 Late has PCIe, but the problem its the drivers for OSX Tiges, Leopard, Sobet. </br>
+also G5 has SATA-II 1.5Gbps, a SATA-III 3Gbps could be a nice upgrade. </bt>
+
+https://www.firmtek.com/seritek/seritek-2me4-e/ </br>
+https://www.firmtek.com/seritek/seritek-e6g/
+https://www.firmtek.com/seritek/seritek-2se2-e/ </br>
+https://www.firmtek.com/download/ </br>
+https://www.firmtek.com/seritek/compat.php </br>
+
+https://www.sonnettech.com/product/legacyproducts/temposatapro6gbpcie2.html
+https://www.sonnettech.com/product/legacyproducts/temposatapro6gbpcie.html
+https://www.sonnettech.com/product/legacyproducts/tempo_sata_e4p.html
+https://www.sonnettech.com/product/legacyproducts/tempo_sata_e4i.html
+https://www.sonnettech.com/product/legacyproducts/tempo_sata_e2p.html
+https://www.sonnettech.com/product/legacyproducts/temposataiii6gbpcie.html
+
+https://areca.com.tw/products/sataadapters-1203.html
+https://www.highpoint-tech.com/legacy
+
+USB3.0 PCIe cards VIA & NEC some have drivers that work in OSX Mavericks 10.9.5
+much less in OSX PPC </br>
+
+SCSI cards are more easy to find...
+ATTO UL4x PCI-X and UL5x PCIe cards seem to be the best option for OSX </br>
+UL5x had a Full Size with internal and external SCSI
+https://macintoshgarden.org/apps/atto-ul4x-and-ul5x-scsi-ultra-320-drivers
+HP Servers have a rebranded LowProfile card External SCSI called: AH627-60001/2/3
