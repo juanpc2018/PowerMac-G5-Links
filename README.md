@@ -343,7 +343,7 @@ https://ia804507.us.archive.org/30/items/manualzilla-id-7355388/7355388.pdf </br
 -----
 
 G5 2005 Late has PCIe, but the problem is the drivers for OSX Tiger 10.4, Leopard 10.5.8, Sobet 10.5.9. </br>
-G5 has SATA-I 1.5Gbps 125MB/s, a faster SATA PCIe or SCSI PCIe card is a must have. </bt>
+G5 has SATA-I 1.5Gbps 125MB/s, a faster SATA or SCSI PCIe card is recommended. </bt>
 
 https://www.firmtek.com/seritek/seritek-2me4-e/ </br>
 https://www.firmtek.com/seritek/seritek-e6g/
@@ -401,7 +401,7 @@ Updating any Firmware Requires using a UPS. </br>
 Unknown if 2009 Firmware works with 2005 drivers,</br>
 some PCI cards, FW update change Big.Endian to litte.Endian and dont work. </br>
 the latest Firwmware is 2009. </br>
-Old 2005 drivers, tool, firmware for Linux, Windows, OSX: </br>
+Old 2005 drivers, tool, firmware for Linix & Win: </br>
 https://archive.org/details/ah62790901 </br>
 HP AH627-60001 comes with that CD from factory, the others Unknown. </br>
 
