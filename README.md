@@ -345,12 +345,17 @@ https://ia804507.us.archive.org/30/items/manualzilla-id-7355388/7355388.pdf </br
 G5 2005 Late has PCIe, but the problem is the drivers for OSX Tiger 10.4, Leopard 10.5.8, Sobet 10.5.9. </br>
 G5 has SATA-I 1.5Gbps 125MB/s, a faster SATA or SCSI PCIe card is recommended. </bt>
 
+SATA-II 3Gbps
+https://www.ioi.com.tw/products/proddetail.aspx?CatID=106&DeviceID=3021&HostID=2038&ProdID=1060087
+https://www.ioi.com.tw/products/proddetail.aspx?CatID=106&DeviceID=3021&HostID=2038&ProdID=1060137
+
 https://www.firmtek.com/seritek/seritek-2me4-e/ </br>
 https://www.firmtek.com/seritek/seritek-e6g/
 https://www.firmtek.com/seritek/seritek-2se2-e/ </br>
 https://www.firmtek.com/download/ </br>
 https://www.firmtek.com/seritek/compat.php </br>
 
+https://www.sonnettech.com/product/tempossd.html
 https://www.sonnettech.com/product/legacyproducts/temposatapro6gbpcie2.html
 https://www.sonnettech.com/product/legacyproducts/temposatapro6gbpcie.html
 https://www.sonnettech.com/product/legacyproducts/tempo_sata_e4p.html
