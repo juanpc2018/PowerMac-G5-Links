@@ -17,7 +17,7 @@ http://dl.qj.net/click.php?pid=111&fid=11328%20 </br>
 Linux ISO file (which is Fedora Core 5 distro): </br>
 http://mirror.linux.duke.edu/pub/fedora/linux/core/5/ppc/%20iso/FC-5-ppc-DVD.iso </br>
 
-Kboot method + Ubuntu: </br>
+Kboot + Ubuntu: </br>
 7.10 </br>
 https://old-releases.ubuntu.com/releases/ports/releases/gutsy/release/ </br>
 http://old-releases.ubuntu.com/releases/ports/releases/gutsy/release/ </br>
@@ -40,8 +40,16 @@ http://old-releases.ubuntu.com/releases/ports/releases//9.04/release/ubuntu-9.04
 http://old-releases.ubuntu.com/releases/ports/releases//jaunty/release/ubuntu-9.04-alternate-powerpc.iso.torrent </br>
 http://old-releases.ubuntu.com/releases/ports/releases//jaunty/release/ubuntu-9.04-server-powerpc.iso </br>
 
+Debian PPC "PS3 compatibility Unknown": </br>
+https://www.debian.org/ports/powerpc/ </br>
+https://www.penguinppc.org/ </br>
+http://cdimage.debian.org/cdimage/ports/snapshots/ </br>
+http://cdimage.debian.org/cdimage/ports/snapshots/2022-12-09/ </br>
+http://cdimage.debian.org/cdimage/ports/snapshots/2022-12-09/debian-11.0.0-powerpc-NETINST-1.iso </br>
+http://cdimage.debian.org/cdimage/ports/snapshots/2022-12-09/debian-11.0.0-ppc64-NETINST-1.iso </br>
 
-Other:
+
+Other: </br>
 https://wiki.ubuntu.com/PowerPCDownloads </br>
 http://old-releases.ubuntu.com/releases/ </br>
 http://old-releases.ubuntu.com/ubuntu/dists/gutsy/ </br>
