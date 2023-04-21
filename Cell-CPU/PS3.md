@@ -27,10 +27,16 @@ https://www.pcwdld.com/best-powerpc-linux-distros#wbounce-modal </br>
 
 2008 </br>
 https://www.linuxinsider.com/story/Installing-Linux-on-the-PlayStation-3-65329.html </br>
+https://www.tweaktown.com/guides/1305/installing_linux_onto_your_sony_ps3/index.html </br>
 https://www.techradar.com/news/gaming/computing/how-to-install-linux-on-your-playstation-3-409390 </br>
 https://www.popularmechanics.com/technology/gadgets/how-to/a3333/4263321/ </br>
 2007: </br>
 https://news.softpedia.com/news/Ubuntu-7-10-on-PS3-73272.shtml
+
+https://www.pcworld.com/article/415386/sony-agrees-to-pay-millions-for-removing-linux-support-from-the-playstation-3.html </br>
+
+FW Downgrade FAT Only: </br>
+http://ps3linux.net/ </br>
 
 KBoot 11: </br>
 https://linux.softpedia.com/get/System/Boot/KBoot-26270.shtml </br>
