@@ -11,6 +11,11 @@ https://www.pcwdld.com/best-powerpc-linux-distros#wbounce-modal </br>
 2008 </br>
 https://www.techradar.com/news/gaming/computing/how-to-install-linux-on-your-playstation-3-409390 </br>
 https://www.popularmechanics.com/technology/gadgets/how-to/a3333/4263321/ </br>
+2007: </br>
+https://news.softpedia.com/news/Ubuntu-7-10-on-PS3-73272.shtml
+
+Kboot 11:
+https://linux.softpedia.com/get/System/Boot/KBoot-26270.shtml
 
 Bootloader: </br>
 http://dl.qj.net/PS3-Linux-Addon-Disc-%20PlayStation-3/pg/12/fid/11308/catid/514 </br>
@@ -80,6 +85,9 @@ https://admin.fedoraproject.org/mirrormanager/mirrors/Fedora/22/ppc64 </br>
 https://admin.fedoraproject.org/mirrormanager/mirrors/Fedora/25/ppc64 </br>
 https://admin.fedoraproject.org/mirrormanager/mirrors/Fedora/28/ppc64 </br>
 https://developer.fedoraproject.org/deployment/secondary_architectures/powerpc.html </br>
+
+Fienix: </br>
+https://fienixppc.blogspot.com/p/download.html </br>
 
 Other: </br>
 https://www.debian.org/CD/http-ftp/#stable </br>
