@@ -150,3 +150,6 @@ Xbox 360 similar PowerPC architecture; </br>
 https://en.wikipedia.org/wiki/Xbox_360 </br>
 https://en.wikipedia.org/wiki/Free60 </br>
 https://free60.org/ </br>
+https://github.com/Free60Project/wiki </br>
+https://arstechnica.com/features/2005/05/xbox360-1/ </br>
+https://web.archive.org/web/20090110154123/http://www.g-prime.net/x360/open/ </br>
