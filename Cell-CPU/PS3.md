@@ -14,6 +14,9 @@ useless for browsing internet unless using very large SWAP. </br>
 https://wiki.ubuntu.com/PowerPCFAQ </br>
 https://help.ubuntu.com/community/PlayStation_3 </br>
 https://tedium.co/2020/11/27/sony-linux-otheros-geohot-history/ </br>
+https://www.cnet.com/culture/sonys-playstation-3-experiences-its-biggest-hack-yet/ </br>
+https://wololo.net/talk/viewtopic.php?p=189969#p189983 </br>
+https://games.slashdot.org/comments.pl?sid=3205473&cid=41747075 </br>
 
 https://en.wikipedia.org/wiki/Yellow_Dog_Linux since YDL >5.0 </br>
 http://osarchive.sda1.eu/yellow-dog </br>
@@ -23,6 +26,7 @@ http://www.edepot.com/ps3_linux.html#YDL_versions </br>
 https://www.pcwdld.com/best-powerpc-linux-distros#wbounce-modal </br>
 
 2008 </br>
+https://www.linuxinsider.com/story/Installing-Linux-on-the-PlayStation-3-65329.html </br>
 https://www.techradar.com/news/gaming/computing/how-to-install-linux-on-your-playstation-3-409390 </br>
 https://www.popularmechanics.com/technology/gadgets/how-to/a3333/4263321/ </br>
 2007: </br>
@@ -114,9 +118,10 @@ https://releases.ubuntu-mate.org/archived/16.10/ </br>
 
 -------
 
-PS3 Emulator for Linux: </br>
+PS3 Emulator Linux, OSX & Win: </br>
+https://rpcs3.net/download </br>
+https://github.com/RPCS3/rpcs3 </br>
 https://www.linux.org/threads/playstation-3-emulator-for-linux.24014/ </br>
-
 
 -------
 
