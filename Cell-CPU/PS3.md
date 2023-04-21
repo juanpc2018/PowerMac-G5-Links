@@ -5,6 +5,13 @@ https://en.wikipedia.org/wiki/Ppc64 </br>
 POWER<7= ppc64be / ppc64 </br>
 POWER8 = ppc64le / ppc64el </br>
 
+To install Linux on PS3 requires a Fat / Original model with Firmware BEFORE <3.2.1 </br>
+https://en.wikipedia.org/wiki/PlayStation_3 </br>
+the biggest Flaw is the very limited RAM, 256MB CPU / 256MB GPU </br>
+useless for browsing internet unless using very large SWAP. </br>
+
+https://en.wikipedia.org/wiki/Yellow_Dog_Linux since YDL >5.0 </br>
+
 2023: </br>
 https://www.pcwdld.com/best-powerpc-linux-distros#wbounce-modal </br>
 
@@ -100,7 +107,12 @@ http://old-releases.ubuntu.com/ubuntu/dists/gutsy-updates/  </br>
 
 ------
 
+https://web.archive.org/web/20070318042916/https://www.scei.co.jp/folding/en/
+
+-----
+
 Playstation2 is MIPS 300MHz </br>
 https://en.wikipedia.org/wiki/PlayStation_2 </br>
 https://kernelloader.sourceforge.net/linux.html </br>
 
+--------
