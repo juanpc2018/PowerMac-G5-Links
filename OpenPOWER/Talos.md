@@ -36,8 +36,8 @@ No adoption = No developers. </br>
 Talos machines were also inspiped by a paper:  </br>
 https://github.com/pullmoll/trusttrust </br>
 written in 1984 by: https://en.wikipedia.org/wiki/Ken_Thompson </br>
-inpired by another Paper written in 1949 https://en.wikipedia.org/wiki/Nineteen_Eighty-Four 
-[Life imitating Art](https://en.wikipedia.org/wiki/Life_imitating_art)
+inpired by another Paper written in 1949 https://en.wikipedia.org/wiki/Nineteen_Eighty-Four </br>
+[Life imitating Art](https://en.wikipedia.org/wiki/Life_imitating_art) </br>
 
 https://youtu.be/5syd5HmDdGU?t=13 </br>
 https://www.youtube.com/@TrungLe-lw4zm/search?query=talos </br>
