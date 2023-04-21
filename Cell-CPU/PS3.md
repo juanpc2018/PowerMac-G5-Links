@@ -7,6 +7,7 @@ POWER8 = ppc64le / ppc64el </br>
 
 To install Linux on PS3 requires a Fat / Original model with Firmware BEFORE <3.2.1 </br>
 https://en.wikipedia.org/wiki/PlayStation_3 </br>
+https://en.wikipedia.org/wiki/PlayStation_3_cluster </br>
 the biggest Flaw is the very limited RAM, 256MB CPU / 256MB GPU </br>
 useless for browsing internet unless using very large SWAP. </br>
 
@@ -97,6 +98,24 @@ https://developer.fedoraproject.org/deployment/secondary_architectures/powerpc.h
 Fienix: </br>
 https://fienixppc.blogspot.com/p/download.html </br>
 
+Adelie: </br>
+https://www.adelielinux.org/download/ </br>
+
+Mate: </br>
+https://releases.ubuntu-mate.org/archived/14.04/powerpc/ </br>
+https://releases.ubuntu-mate.org/archived/15.04/powerpc/ </br>
+https://releases.ubuntu-mate.org/archived/15.10/powerpc/ </br>
+https://releases.ubuntu-mate.org/archived/16.04/ </br>
+https://releases.ubuntu-mate.org/archived/16.10/ </br>
+
+-------
+
+PS3 Emulator for Linux: </br>
+https://www.linux.org/threads/playstation-3-emulator-for-linux.24014/ </br>
+
+
+-------
+
 Other: </br>
 https://www.debian.org/CD/http-ftp/#stable </br>
 https://wiki.ubuntu.com/PowerPCDownloads </br>
@@ -106,6 +125,10 @@ http://old-releases.ubuntu.com/ubuntu/dists/gutsy-backports/ </br>
 http://old-releases.ubuntu.com/ubuntu/dists/gutsy-proposed/ </br>
 http://old-releases.ubuntu.com/ubuntu/dists/gutsy-security/ </br>
 http://old-releases.ubuntu.com/ubuntu/dists/gutsy-updates/  </br>
+https://en.wikipedia.org/wiki/Fixstars_Solutions </br>
+https://lwn.net/Articles/285538/ </br>
+https://www.linuxjournal.com/magazine/power </br>
+https://hackaday.com/2022/02/10/turning-the-ps4-into-a-useful-linux-machine/ </br>
 
 ------
 
