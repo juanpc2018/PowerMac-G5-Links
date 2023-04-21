@@ -23,9 +23,9 @@ little.endian(el/le) = Left<--to--Right </br>
 True little.Endian = thgiR<--ot--tfeL </br>
 thats why Debian, Fedora, Gentoo calls it "el" Not "le". </br> 
 
-other attemots to keep (BE) alive, were made along the way </br>
-and efforts to continue PPC legacy too, </br>
-most notable are the AmigaOS3/4, MorphOS, AROS, ApolloOS community.. </br>
+other attempts to keep (BE) alive, were made along the way </br>
+efforts to continue PPC legacy too, </br>
+most notable are the: AmigaOS3/4, MorphOS, AROS, ApolloOS community.. </br>
 HW using custom FPGA or Power5 CPUs, like: </br>
 Amiga X5000, X1000, X500, etc... </br>
 
@@ -33,11 +33,10 @@ but has the same problem: </br>
 High price + Niche Market = Difficult Adoption.  </br>
 No adoption = No developers. </br>
 
-Talos machines were also inspiped by a paper  </br>
+Talos machines were also inspiped by a paper:  </br>
 https://github.com/pullmoll/trusttrust </br>
-written by: https://en.wikipedia.org/wiki/Ken_Thompson </br>
-a Distotian Sci-Fi Novel about a Future where nobody knows whats going on under the hood. </br>
-inpired by George Orwell Novel written in 1949 https://en.wikipedia.org/wiki/Nineteen_Eighty-Four 
+written in 1984 by: https://en.wikipedia.org/wiki/Ken_Thompson </br>
+inpired by another Paper written in 1949 https://en.wikipedia.org/wiki/Nineteen_Eighty-Four 
 
 https://youtu.be/5syd5HmDdGU?t=13 </br>
 https://www.youtube.com/@TrungLe-lw4zm/search?query=talos </br>
