@@ -19,7 +19,7 @@ the reason is to make easy/faster to port software from x86_64 to PPC atchitectu
 some Hardcore Linux developers like Void-Linux-PPC, Fienix, etc... </br>
 are developing PPC for Big.Endian Only, because is the correct way. </br>
 Big.Endian(BE) = Left--to-->Right </br>
-little.endian(el/le) = Left<--to--Right. </br>
+little.endian(el/le) = Left<--to--Right </br>
 True little.Endian = thgiR<--ot--tfeL </br>
 thats why Debian, Fedora, Gentoo calls it "el" Not "le". </br> 
 
