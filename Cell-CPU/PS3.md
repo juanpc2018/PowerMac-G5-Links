@@ -11,6 +11,10 @@ https://en.wikipedia.org/wiki/PlayStation_3_cluster </br>
 the biggest Flaw is the very limited RAM, 256MB CPU / 256MB GPU </br>
 useless for browsing internet unless using very large SWAP. </br>
 
+https://wiki.ubuntu.com/PowerPCFAQ </br>
+https://help.ubuntu.com/community/PlayStation_3 </br>
+https://tedium.co/2020/11/27/sony-linux-otheros-geohot-history/ </br>
+
 https://en.wikipedia.org/wiki/Yellow_Dog_Linux since YDL >5.0 </br>
 http://osarchive.sda1.eu/yellow-dog </br>
 http://www.edepot.com/ps3_linux.html#YDL_versions </br>
