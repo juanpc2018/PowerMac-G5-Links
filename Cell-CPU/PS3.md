@@ -3,7 +3,7 @@ is also interesting to collect info about PS3 emulators, copatible Linux distros
 https://en.wikipedia.org/wiki/Ppc64 </br>
 
 POWER<7= ppc64be / ppc64 </br>
-POWER8 = ppc64le </br>
+POWER8 = ppc64le / ppc64el </br>
 2023: </br>
 https://www.pcwdld.com/best-powerpc-linux-distros#wbounce-modal </br>
 
@@ -53,6 +53,7 @@ http://cdimage.debian.org/cdimage/ports/snapshots/2022-12-09/debian-11.0.0-ppc64
 
 
 Other: </br>
+https://www.debian.org/CD/http-ftp/#stable </br>
 https://wiki.ubuntu.com/PowerPCDownloads </br>
 http://old-releases.ubuntu.com/releases/ </br>
 http://old-releases.ubuntu.com/ubuntu/dists/gutsy/ </br>
