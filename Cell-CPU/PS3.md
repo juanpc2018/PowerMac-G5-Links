@@ -173,7 +173,7 @@ https://kernelloader.sourceforge.net/linux.html </br>
 
 --------
 
-Xbox 360 similar PowerPC architecture; </br>
+Xbox 360 similar PowerPC architecture; "Power5+" </br>
 https://en.wikipedia.org/wiki/Xbox_360 </br>
 https://en.wikipedia.org/wiki/Free60 </br>
 https://free60.org/ </br>
