@@ -3,7 +3,7 @@ when Apple-IBM-Motorola Eng. Team wanted to create a Next Gen G5 aka. "G6" befor
 The G6 was planned to have a PPC405 controlling the board, an small PPC and Big PPC. </br>
 big.Little kind of, </br>
 and thats exactly what Talos Raptor 2 has. </br>
-Talos Raptor 2 seems to be the True Sussesoor of Apple G5 QUAD, HW speaking,  </br>
+Talos Raptor 2 seems to be the Sussesoor of Apple G5 QUAD, HW speaking,  </br>
 of course OSX is closed source, and OSX for PPC G5 is Big.Endian,  </br>
 someone found the abandoned source code and still develops OSX Sobert 10.5.9 for BE PPC, totally incompatible with modern OSX </br>
 maybe someday, if that user has access to New PPC machines like Amiga X5000 or Talos Blackbird / Raptor2 </br>
