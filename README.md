@@ -416,3 +416,133 @@ https://web.archive.org/web/20121026132412/http://www.siliconimage.com/support/s
 There was another PCIe card, Brand was purchased by Xilinx, to download drivers requires registration. </br>
 
 ------
+
+Talos Raptor II website has PowerISA v2.01 .pdf archive for AIM PPC 970 fx/mp CPUs </br>
+also has PowerISA v2.02 pdf for Sony PlayStation3 PPC CPU. </be>
+
+in theory is possible to Run Linux BE on SonyPlaystation3, </br>
+or remove the CPU from PS3 and create a daughterboard for the G5, </br>
+maybe could work. </br>
+
+The AIM / Apple dream for G6, was to use the PPC405 as controller, </br>
+the dreams come true in the Talos Raptor 2. </br>
+
+-----
+
+PowerISA https://web.archive.org/web/20221009233346/https://wiki.raptorcs.com/wiki/Power_ISA
+v2.01 = Power4+ / 970 
+https://web.archive.org/web/20210613101338/https://wiki.raptorcs.com/wiki/Category:PowerPC_Architecture_v2.01
+
+v2.02 = Power5 / Cell PPE = PlayStation3
+https://web.archive.org/web/20210613101400/https://wiki.raptorcs.com/wiki/Category:PowerPC_Architecture_v2.02
+
+v2.03 = ppc405
+v2.04 = Power5++ / PA6T "Amiga 500/1000/5000
+v2.05 = Power6
+v2.07 = Power8
+v3.0B = Power9
+v3.10 = Power10
+
+Current Open Boards for Power8/9: "OpenPOWER"
+https://web.archive.org/web/20230103232931/https://wiki.raptorcs.com/wiki/OpenPOWER
+
+Documentation:
+https://web.archive.org/web/20221021014117/https://wiki.raptorcs.com/wiki/Category:Documentation
+
+https://www.talospace.com/2020/05/qemu-adds-power10-support.html
+
+https://web.archive.org/web/20221015224104/
+https://wiki.raptorcs.com/wiki/POWER9
+
+Boot steps:
+https://web.archive.org/web/20230103233019/https://wiki.raptorcs.com/wiki/OpenPOWER_Firmware
+OpenBMC FSI-->SBE-->OTPROM-->SEEPROM-->FW-->SBE-PIBMEM-->Hostboot
+Hostboot--"meminit"-->SkiBoot--"PCIeinit--OPAL"-->PNOR-->SkiRoot
+
+IOPPE "µCPU" inside POWER9
+FW: HCODE
+
+GPE "µCPU" inside POWER9
+FW: HCODE
+helps OCC PowerManagement.
+    Stop GPEs (SGPEs) resumes core execution after STOP Power ISA instruction which halts core execution.
+    Pstate GPEs (PGPEs) manage core power states.
+
+OCC On-Chip-Controller "µCPU" inside POWER9
+Monitors:
+chip workload, power consumption and temperature readings.
+Transmits:
+ temperature readings to the BMC to set appropriate fan speeds. 
+implements:
+ any power caps and supports programmable TDP limits.
+OCC FW is loaded at boot as part of the boot process.
+Manages:
+CME, SGPE and PGPE auxillary microprocessors 
+various power management responsibilities
+
+http://jk.ozlabs.org/projects/petitboot/
+https://git.raptorcs.com/git/talos-op-build/tree/openpower/configs/linux/skiroot_p9_defconfig?h=06-04-2018
+https://git.raptorcs.com/git/talos-petitboot/
+https://open-power.github.io/petitboot/
+
+U-root
+A small number of u-root commands, e.g. strace, do not build for ppc64le at the moment. 
+https://u-root.org/
+https://github.com/u-root/u-root
+
+Heads
+--Skiroot
+--Petitboot
+https://osresearch.net/
+https://github.com/osresearch/heads
+https://github.com/osresearch/heads/issues?q=ppc64
+
+
+SkiRoot -->Alt-->U-root
+-->Busybox
+-->Petitboot
+
+
+https://web.archive.org/web/20230103232926/https://wiki.raptorcs.com/wiki/Skiroot
+http://open-power.github.io/skiboot/doc/index.html
+https://git.raptorcs.com/git/talos-skiboot/
+https://git.raptorcs.com/git/talos-occ/
+https://git.raptorcs.com/git/talos-hostboot/
+https://git.raptorcs.com/git/talos-sbe/
+https://github.com/open-power/hcode/tree/master/import/chips/p9/procedures/ppe_closed/cme
+https://github.com/open-power/hostboot/blob/master/src/include/usr/sbe/sbe_common.H#L71
+https://github.com/open-power/occ
+https://github.com/open-power/hcode
+
+
+https://github.com/open-power/ppe42-gcc
+https://github.com/open-power/ppe42-binutils
+https://web.archive.org/web/20221019071522/https://wiki.raptorcs.com/wiki/File:PPE_42X_Core_Users_Manual.pdf
+
+
+https://en.wikichip.org/wiki/list_of_microprocessor_families#IBM
+https://en.wikichip.org/wiki/ibm/microarchitectures/power4
+https://en.wikichip.org/wiki/ibm/microarchitectures/power5
+https://en.wikichip.org/wiki/ibm/microarchitectures/power6
+https://en.wikichip.org/wiki/ibm/microarchitectures/power6%2B
+https://en.wikichip.org/wiki/ibm/microarchitectures/power7
+https://en.wikichip.org/wiki/ibm/microarchitectures/power7%2B
+https://en.wikichip.org/wiki/ibm/microarchitectures/power8
+https://en.wikichip.org/wiki/ibm/microarchitectures/power8%2B
+https://en.wikichip.org/wiki/ibm/microarchitectures/power9
+https://en.wikichip.org/wiki/ibm/microarchitectures/power10
+
+
+https://web.archive.org/web/20221019142910/https://wiki.raptorcs.com/wiki/File:PowerISA_public.v3.0C.pdf
+https://web.archive.org/web/20221019082244/https://wiki.raptorcs.com/wiki/File:PowerISA_public.v3.1.pdf
+https://web.archive.org/web/20221019040015/https://wiki.raptorcs.com/wiki/File:OPF_PowerISA_v3.1B.pdf
+https://web.archive.org/web/20221019035644/https://wiki.raptorcs.com/wiki/File:POWER9_Processor_Programming_Model_Bulletin_090919.pdf
+
+https://web.archive.org/web/20210508200958/https://wiki.raptorcs.com/wiki/Power_ISA/Machine_State_Register
+https://web.archive.org/web/20230103233036/https://wiki.raptorcs.com/wiki/Power_ISA/Vector_Operations
+https://web.archive.org/web/20230103232923/https://wiki.raptorcs.com/wiki/PowerNV
+https://openpower.foundation/specifications/
+https://web.archive.org/web/20221012103427/https://www-50.ibm.com/systems/power/openpower/
+https://openpowerfoundation.org/
+
+----
