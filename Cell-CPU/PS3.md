@@ -145,3 +145,8 @@ https://en.wikipedia.org/wiki/PlayStation_2 </br>
 https://kernelloader.sourceforge.net/linux.html </br>
 
 --------
+
+Xbox 360 similar PowerPC architecture; </br>
+https://en.wikipedia.org/wiki/Xbox_360 </br>
+https://en.wikipedia.org/wiki/Free60 </br>
+https://free60.org/ </br>
