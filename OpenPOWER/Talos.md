@@ -9,6 +9,7 @@ someone found the abandoned source code and still develops OSX Sobert 10.5.9 for
 maybe someday, if that user has access to New PPC machines like Amiga X5000 or Talos Blackbird / Raptor2 </br>
 maybe could adapt OSX Sobert to other PPC machines, </br>
 maybe also AmigaOS4 could be adapted to run on other PPC machines. </br>
+The main problem seems to be the different Boot systems, U-Boot, PREP, etc... Fienix for example has 2 iso versions,</br>
 
 New PowerCPUs are Bi-Endian, but most modern Linux OS for PPC </br>
 are designed for little.Endian "ppc64le/ppc64el", </br>
