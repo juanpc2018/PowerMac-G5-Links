@@ -144,6 +144,7 @@ https://en.wikipedia.org/wiki/Fixstars_Solutions </br>
 https://lwn.net/Articles/285538/ </br>
 https://www.linuxjournal.com/magazine/power </br>
 https://hackaday.com/2022/02/10/turning-the-ps4-into-a-useful-linux-machine/ </br>
+https://stackoverflow.com/questions/467711/develop-for-playstation-3-linux </br>
 
 ------
 
