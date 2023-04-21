@@ -1,32 +1,35 @@
 seems Talos Raptor 2 is the dream come true, </br>
-when Apple wanted to create a Next Gen G5 aka. "G6" before goint to intel, </br>
-The G6 was planned to have a PPC405 controlling the board, an small PPC and Big PPC CPUs. </br>
-thats exactly what Talos Raptor 2 is/has. </br>
-Seems Talos Raptor 2 is the True Sussesoor of Apple G5 QUAD.  </br>
-of course OSX is closed source, and OSX for PPC G5 is Big Endian,  </br>
-someone found the abandoned source code and still updates OSX Sobert 10.5.9 for BE PPC. </br>
+when Apple-IBM-Motorola Eng. Team wanted to create a Next Gen G5 aka. "G6" before Apple going with intel, </br>
+The G6 was planned to have a PPC405 controlling the board, an small PPC and Big PPC. </br>
+big.Little kind of, </br>
+and thats exactly what Talos Raptor 2 has. </br>
+Talos Raptor 2 seems to be the True Sussesoor of Apple G5 QUAD, HW speaking,  </br>
+of course OSX is closed source, and OSX for PPC G5 is Big.Endian,  </br>
+someone found the abandoned source code and still develops OSX Sobert 10.5.9 for BE PPC, totally incompatible with modern OSX </br>
 maybe someday, if that user has access to New PPC machines like Amiga X5000 or Talos Blackbird / Raptor2 </br>
-maybe could adapt OSX Sobert to New machines, maybe also AmigaOS4 could be adapted to run on EL/LE PPC machines. </br>
+maybe could adapt OSX Sobert to other PPC machines, </br>
+maybe also AmigaOS4 could be adapted to run on other PPC machines. </br>
 
 New PowerCPUs are Bi-Endian, but most modern Linux OS for PPC </br>
 are designed for little.Endian "ppc64le/ppc64el", </br>
 the reason is to make easy/faster to port software from x86_64 to PPC atchitecture.  </br>
 some Hardcore Linux developers like Void-Linux-PPC, Fienix, etc... </br>
-are developing PPC for Big.Endian, because its the correct way. </br>
-Big.Endian (BE) = Left--to-->Right </br>
-little.endian (el/le) = Left<--to--Right. </br>
+are developing PPC for Big.Endian Only, because is the correct way. </br>
+Big.Endian(BE) = Left--to-->Right </br>
+little.endian(el/le) = Left<--to--Right. </br>
 thats why Debian, Fedora, Gentoo calls it "el" Not "le". </br> 
 
-other attemots to keep BE alive, were made along the way </br>
-and to continue PPC legacy too, </br>
-most notable efforts are the AmigaOS3/4, MorphOS, AROS, ApolloOS community.. </br>
+other attemots to keep (BE) alive, were made along the way </br>
+and efforts to continue PPC legacy too, </br>
+most notable are the AmigaOS3/4, MorphOS, AROS, ApolloOS community.. </br>
 HW using custom FPGA or Power5 CPUs, like: </br>
 Amiga X5000, X1000, X500, etc... </br>
 
 but has the same problem: </br>
 High price + Niche Market = Difficult Adoption.  </br>
+No adoption = No developers. </br>
 
-Talos machines were also inspiped by a paper writen in 1984 </br>
+Talos machines were also inspiped by a paper  </br>
 https://github.com/pullmoll/trusttrust </br>
 written by: https://en.wikipedia.org/wiki/Ken_Thompson </br>
 a Distotian Sci-Fi Novel about a Future where nobody knows whats going on under the hood. </br>
