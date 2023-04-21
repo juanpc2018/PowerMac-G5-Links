@@ -34,9 +34,9 @@ High price + Niche Market = Difficult Adoption.  </br>
 No adoption = No developers. </br>
 
 Talos machines were also inspiped by a paper:  </br>
-https://github.com/pullmoll/trusttrust </br>
-written in 1984 by: https://en.wikipedia.org/wiki/Ken_Thompson </br>
-inpired by another Paper written in 1949 called: [Nineteen Eighty-Four](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) </br>
+[Reflections on Trusting Trust](https://github.com/pullmoll/trusttrust ) </br>
+written in 1984/8 by: https://en.wikipedia.org/wiki/Ken_Thompson </br>
+inpired by another Paper written in 1949/6/8 called: [Nineteen Eighty-Four](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) </br>
 [Life imitating Art](https://en.wikipedia.org/wiki/Life_imitating_art) </br>
 
 https://youtu.be/5syd5HmDdGU?t=13 </br>
