@@ -1,15 +1,21 @@
 seems Talos Raptor 2 is the dream come true, </br>
 when Apple wanted to create a Next Gen G5 aka. "G6" before goint to intel, </br>
-The G6 was panned to have a PPC405 controlling the board, an small PPC, and Big PPC CPUs. </br>
-and thats exactly what Talos Raptor 2 is/has. </br>
+The G6 was planned to have a PPC405 controlling the board, an small PPC and Big PPC CPUs. </br>
+thats exactly what Talos Raptor 2 is/has. </br>
 Seems Talos Raptor 2 is the True Sussesoor of Apple G5 QUAD.  </br>
 of course OSX is closed source, and OSX for PPC G5 is Big Endian,  </br>
+someone found the abandoned source code and still updates OSX Sobert 10.5.9 for BE PPC. </br>
+maybe someday, if that user has access to New PPC machines like Amiga X5000 or Talos Blackbird / Raptor2 </br>
+maybe could adapt OSX Sobert to New machines, maybe also AmigaOS4 could be adapted to run on EL/LE PPC machines. </br>
+
 New PowerCPUs are Bi-Endian, but most modern Linux OS for PPC </br>
-are designed little.Endian, to make easy to port all software from x86_64 to PPC.  </br>
+are designed for little.Endian "ppc64le/ppc64el", </br>
+the reason is to make easy/faster to port software from x86_64 to PPC atchitecture.  </br>
 some Hardcore Linux developers like Void-Linux-PPC, Fienix, etc... </br>
-are developing for Big.Endian, because its the correct way. </br>
+are developing PPC for Big.Endian, because its the correct way. </br>
 Big.Endian (BE) = Left--to-->Right </br>
-little.endian (el/le) = Left<--to--Right.</br>
+little.endian (el/le) = Left<--to--Right. </br>
+thats why Debian, Fedora, Gentoo calls it "el" Not "le". </br> 
 
 other attemots to keep BE alive, were made along the way </br>
 and to continue PPC legacy too, </br>
