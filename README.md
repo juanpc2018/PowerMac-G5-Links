@@ -1,5 +1,5 @@
 ## PowerMac G5 Links 
-v1.00000015
+v1.00000016
 
 The Purpose is to collect in 1 place all information available about Apple PowerMac G5 (2003-2005). </br>
 Schematics, Tech Notes, OpenFirmware, Fimware updates, Service Manuals, Diagnostics, compatible OS, etc... </p>
@@ -420,9 +420,9 @@ There was another PCIe card, Brand was purchased by Xilinx, to download drivers 
 Talos Raptor II website has PowerISA v2.01 .pdf archive for AIM PPC 970 fx/mp CPUs </br>
 also has PowerISA v2.02 pdf for Sony PlayStation3 PPC CPU. </be>
 
-in theory is possible to Run Linux BE on SonyPlaystation3, </br>
-or remove the CPU from PS3 and create a daughterboard for the G5, </br>
-maybe could work. </br>
+in theory is possible to Run Linux ppc64BE on SonyPlaystation3, </br>
+or remove the CPU from PS3 and create a CPU upgrade daughterboard for G5, </br>
+could work. </br>
 
 The AIM / Apple dream for G6, was to use the PPC405 as controller, </br>
 the dreams come true in the Talos Raptor 2. </br>
