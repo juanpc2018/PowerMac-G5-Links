@@ -79,6 +79,7 @@ https://torrent.fedoraproject.org/ </br>
 https://admin.fedoraproject.org/mirrormanager/mirrors/Fedora/22/ppc64 </br>
 https://admin.fedoraproject.org/mirrormanager/mirrors/Fedora/25/ppc64 </br>
 https://admin.fedoraproject.org/mirrormanager/mirrors/Fedora/28/ppc64 </br>
+https://developer.fedoraproject.org/deployment/secondary_architectures/powerpc.html </br>
 
 Other: </br>
 https://www.debian.org/CD/http-ftp/#stable </br>
