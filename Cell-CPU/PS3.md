@@ -11,6 +11,8 @@ the biggest Flaw is the very limited RAM, 256MB CPU / 256MB GPU </br>
 useless for browsing internet unless using very large SWAP. </br>
 
 https://en.wikipedia.org/wiki/Yellow_Dog_Linux since YDL >5.0 </br>
+http://osarchive.sda1.eu/yellow-dog </br>
+http://www.edepot.com/ps3_linux.html#YDL_versions </br>
 
 2023: </br>
 https://www.pcwdld.com/best-powerpc-linux-distros#wbounce-modal </br>
