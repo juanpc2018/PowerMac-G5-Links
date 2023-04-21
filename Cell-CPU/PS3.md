@@ -14,10 +14,9 @@ https://www.popularmechanics.com/technology/gadgets/how-to/a3333/4263321/ </br>
 2007: </br>
 https://news.softpedia.com/news/Ubuntu-7-10-on-PS3-73272.shtml
 
-Kboot 11:
-https://linux.softpedia.com/get/System/Boot/KBoot-26270.shtml
-
-Bootloader: </br>
+KBoot 11: </br>
+https://linux.softpedia.com/get/System/Boot/KBoot-26270.shtml </br>
+https://www.almesberger.net/cv/projects.html </br>
 http://dl.qj.net/PS3-Linux-Addon-Disc-%20PlayStation-3/pg/12/fid/11308/catid/514 </br>
 
 Linux installer (official Sony PS3 Cell processor installer): </br>
@@ -99,5 +98,9 @@ http://old-releases.ubuntu.com/ubuntu/dists/gutsy-proposed/ </br>
 http://old-releases.ubuntu.com/ubuntu/dists/gutsy-security/ </br>
 http://old-releases.ubuntu.com/ubuntu/dists/gutsy-updates/  </br>
 
+------
 
+Playstation2 is MIPS 300MHz </br>
+https://en.wikipedia.org/wiki/PlayStation_2 </br>
+https://kernelloader.sourceforge.net/linux.html </br>
 
