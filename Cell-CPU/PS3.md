@@ -8,6 +8,7 @@ POWER8 = ppc64le / ppc64el </br>
 To install Linux on PS3 requires a Fat / Original model with Firmware BEFORE <3.2.1 </br>
 https://en.wikipedia.org/wiki/PlayStation_3 </br>
 https://en.wikipedia.org/wiki/PlayStation_3_cluster </br>
+https://en.wikipedia.org/wiki/OtherOS </br>
 the biggest Flaw is the very limited RAM, 256MB CPU / 256MB GPU </br>
 useless for browsing internet unless using very large SWAP. </br>
 
@@ -33,7 +34,10 @@ https://www.popularmechanics.com/technology/gadgets/how-to/a3333/4263321/ </br>
 2007: </br>
 https://news.softpedia.com/news/Ubuntu-7-10-on-PS3-73272.shtml
 
+Legal: </br>
 https://www.pcworld.com/article/415386/sony-agrees-to-pay-millions-for-removing-linux-support-from-the-playstation-3.html </br>
+https://www.cnet.com/tech/gaming/ps3-other-os-settlement-claim-how-to/ </br>
+https://www.polygon.com/2016/10/12/13261780/ps3-otheros-linux-lawsuit-settlement-claims </br>
 
 FW Downgrade FAT Only: </br>
 http://ps3linux.net/ </br>
@@ -128,6 +132,17 @@ PS3 Emulator Linux, OSX & Win: </br>
 https://rpcs3.net/download </br>
 https://github.com/RPCS3/rpcs3 </br>
 https://www.linux.org/threads/playstation-3-emulator-for-linux.24014/ </br>
+https://www.playstation.com/en-us/support/hardware/ps3/?category=system-software-update&subCategory=system-software-features </br>
+https://nblog.org/ps3-iso/ </br>
+FW 4.90 Latest </br>
+https://www.playstation.com/en-us/support/hardware/ps3/system-software/ </br>
+UPDATE/REINSTALL: </br>
+http://dus01.ps3.update.playstation.net/update/ps3/image/us/2023_0228_05fe32f5dc8c78acbcd84d36ee7fdc5b/PS3UPDAT.PUP </br>
+Using a PC or Mac, create a folder named "PS3" on a USB drive formatted as FAT32. </br>
+Inside that folder, create another folder named "UPDATE". Download the file, and save it in the "UPDATE" folder created in step 1. </br>
+Save the file with the file name "PS3UPDAT.PUP". Plug the USB device into your PS3 console and go to: </br>
+Settings > System Update > Update via Storage Media </br>
+NOTE: Depending on the software title, may not be able to play without updating the PS3 system software. </br>
 
 -------
 
