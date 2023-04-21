@@ -1,6 +1,9 @@
 since Sony PlayStation 3 has a Multi-core Cell CPU "Power5", the cpu that followed 970mp </br>
 is also interesting to collect info about PS3 emulators, copatible Linux distros, install guides, etc... </br> 
+https://en.wikipedia.org/wiki/Ppc64 </br>
 
+POWER<7= ppc64be / ppc64 </br>
+POWER8 = ppc64le </br>
 2023: </br>
 https://www.pcwdld.com/best-powerpc-linux-distros#wbounce-modal </br>
 
