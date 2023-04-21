@@ -4,6 +4,7 @@ https://en.wikipedia.org/wiki/Ppc64 </br>
 
 POWER<7= ppc64be / ppc64 </br>
 POWER8 = ppc64le / ppc64el </br>
+
 2023: </br>
 https://www.pcwdld.com/best-powerpc-linux-distros#wbounce-modal </br>
 
@@ -19,6 +20,13 @@ http://dl.qj.net/click.php?pid=111&fid=11328%20 </br>
 
 Linux ISO file (which is Fedora Core 5 distro): </br>
 http://mirror.linux.duke.edu/pub/fedora/linux/core/5/ppc/%20iso/FC-5-ppc-DVD.iso </br>
+
+Void-Linux ppc: </br>
+https://voidlinux-ppc.org/download/ </br>
+https://repo.voidlinux-ppc.org/live/current/ </br>
+https://repo.voidlinux-ppc.org/live/current/void-live-ppc64-20210825-xfce.iso </br>
+https://repo.voidlinux-ppc.org/live/current/void-live-ppc64-20210825.iso </br>
+https://repo.voidlinux-ppc.org/live/current/void-ppc64-ROOTFS-20210825.tar.xz </br>
 
 Kboot + Ubuntu: </br>
 7.10 </br>
@@ -51,6 +59,26 @@ http://cdimage.debian.org/cdimage/ports/snapshots/2022-12-09/ </br>
 http://cdimage.debian.org/cdimage/ports/snapshots/2022-12-09/debian-11.0.0-powerpc-NETINST-1.iso </br>
 http://cdimage.debian.org/cdimage/ports/snapshots/2022-12-09/debian-11.0.0-ppc64-NETINST-1.iso </br>
 
+Gentoo: </br>
+https://wiki.gentoo.org/wiki/Handbook:PPC64 </br>
+https://wiki.gentoo.org/wiki/Handbook:PPC64/Installation/Media </br>
+https://www.gentoo.org/downloads/ </br>
+https://bouncer.gentoo.org/fetch/root/all/releases/ppc/autobuilds/20230418T030159Z/stage3-ppc64-openrc-20230418T030159Z.tar.xz </br>
+https://bouncer.gentoo.org/fetch/root/all/releases/ppc/autobuilds/20230418T030159Z/stage3-ppc64-systemd-20230418T030159Z.tar.xz </br>
+https://bouncer.gentoo.org/fetch/root/all/releases/ppc/autobuilds/20230418T030159Z/stage3-ppc64-systemd-mergedusr-20230418T030159Z.tar.xz </br>
+https://wiki.gentoo.org/wiki/Project:Musl </br>
+https://bouncer.gentoo.org/fetch/root/all/releases/ppc/autobuilds/20230418T030159Z/stage3-ppc64-musl-hardened-openrc-20230418T030159Z.tar.xz </br>
+
+FEDORA: </br>
+https://www.fedoraproject.org/wiki/Architectures/PowerPC </br>
+G5 https://github.com/masterzorag/G5_ppc64-linux </br>
+https://www.fedoraproject.org/wiki/Architectures/PowerPC/PreviousReleases </br>
+https://admin.fedoraproject.org/mirrormanager/ </br>
+https://fedoraproject.org/workstation/download/ </br>
+https://torrent.fedoraproject.org/ </br>
+https://admin.fedoraproject.org/mirrormanager/mirrors/Fedora/22/ppc64 </br>
+https://admin.fedoraproject.org/mirrormanager/mirrors/Fedora/25/ppc64 </br>
+https://admin.fedoraproject.org/mirrormanager/mirrors/Fedora/28/ppc64 </br>
 
 Other: </br>
 https://www.debian.org/CD/http-ftp/#stable </br>
