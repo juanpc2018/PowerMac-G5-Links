@@ -84,6 +84,7 @@ https://translated.turbopages.org/proxy_u/ru-en.en.84bd174a-63b0d3a3-3992663c-74
 
 Operating systems: </br>
 https://github.com/masterzorag/G5_ppc64-linux </br>
+http://osarchive.sda1.eu/yellow-dog </br>
 
 1994 WindowsNT 3.5 </br>
 https://archive.org/details/NT3.5PPC </br>
