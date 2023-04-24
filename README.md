@@ -83,6 +83,8 @@ https://www.realworldtech.com/ppc970/ </br>
 https://translated.turbopages.org/proxy_u/ru-en.en.84bd174a-63b0d3a3-3992663c-74722d776562/https/bytemag.ru/miikroprocessorie-power-ii-powerp-2649/ </p>
 
 Operating systems: </br>
+https://github.com/masterzorag/G5_ppc64-linux </br>
+
 1994 WindowsNT 3.5 </br>
 https://archive.org/details/NT3.5PPC </br>
 https://archive.org/details/VCPP4.00RISCPowerPC </br>
