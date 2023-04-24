@@ -546,3 +546,8 @@ https://web.archive.org/web/20221012103427/https://www-50.ibm.com/systems/power/
 https://openpowerfoundation.org/
 
 ----
+
+IBM PowerPC Architecture Book I, II, III. </br>
+http://ps3linux.net/ps3_docs/ps3_sdk31_docs/index.html </br>
+
+----
