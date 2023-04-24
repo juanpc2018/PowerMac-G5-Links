@@ -148,6 +148,7 @@ NOTE: Depending on the software title, may not be able to play without updating 
 
 http://osarchive.sda1.eu/yellow-dog </br>
 http://ps3linux.net/ </br>
+http://www.edepot.com/ps3_linux.html#YDL_versions </br>
 
 Other: </br>
 https://www.debian.org/CD/http-ftp/#stable </br>
