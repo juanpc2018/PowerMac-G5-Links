@@ -4,6 +4,9 @@ https://libre-soc.org/ </br>
 https://www.tomshardware.com/news/libre-soc-releases-first-non-ibm-openpower-chip-in-decade </br>
 https://openpowerfoundation.org/resources/ </br>
 
+POWER8 Simulator: </br>
+https://public.dhe.ibm.com/software/server/powerfuncsim/p8/ </br>
+
 POWER9 Simulator: </br>
 http://public.dhe.ibm.com/software/server/powerfuncsim/p9/packages/v1.1-0/ </br>
 http://public.dhe.ibm.com/software/server/powerfuncsim/p9/packages/v1.1-1/ </br>
