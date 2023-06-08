@@ -1,5 +1,5 @@
 ## PowerMac G5 Links 
-v1.00000016
+v1.00000017
 
 The Purpose is to collect in 1 place all information available about Apple PowerMac G5 (2003-2005). </br>
 Schematics, Tech Notes, OpenFirmware, Fimware updates, Service Manuals, Diagnostics, compatible OS, etc... </p>
@@ -554,3 +554,9 @@ IBM PowerPC Architecture Book I, II, III. </br>
 http://ps3linux.net/ps3_docs/ps3_sdk31_docs/index.html </br>
 
 ----
+
+more docs, faqs, programming, linux ppc </br>
+https://cdn.preterhuman.net/texts/computing/ </br>
+https://cdn.preterhuman.net/texts/computing/linux/ </br>
+
+-----
