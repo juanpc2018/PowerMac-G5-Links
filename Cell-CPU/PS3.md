@@ -4,7 +4,7 @@ is also interesting to collect info about PS3 emulators, copatible Linux distros
 https://en.wikipedia.org/wiki/Ppc64 </br>
 
 POWER<7= ppc64be / ppc64 </br>
-POWER8 = ppc64le / ppc64el </br>
+POWER>8 = ppc64le / ppc64el </br>
 
 To install Linux on PS3 requires a Fat / Original A or B model with Firmware BEFORE <3.2.1 </br>
 but older units have The Yellow light "CPU Damage", and require a newer but Not latest PS3 to donate & transplant the CPU to the FAT from 45nm to 90nm. </br>
