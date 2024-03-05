@@ -1,3 +1,7 @@
+Highly optimized Linux latest Kernel for ppc64be </br>
+https://www.youtube.com/watch?v=V5dpXXxGYCU </br>
+https://dl.t2sde.org/binary/2024/ </br>
+
 since Sony PlayStation 3 has a 1-core + 7x SPE Cell CPU based on "Power5", the cpu that followed 970mp </br>
 similar to Xbox 360, that has [3x PowerPC Cores](https://www.youtube.com/watch?v=zmHY_VnuDdE&t=99s) + [GPU](https://www.youtube.com/watch?v=dEXro9yZpZs&t=33s),[1](https://www.youtube.com/watch?v=Q4UHgOR9o-U&t=4s)
 is also interesting to collect info about PS3 emulators, copatible Linux distros, install guides, etc... </br> 
