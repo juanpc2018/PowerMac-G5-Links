@@ -565,3 +565,4 @@ PearPC PPC emulator for WinXP 32-bits </br>
 0.5.0  https://pearpc.sourceforge.net/  </br>
 0.6pre https://github.com/sebastianbiallas/pearpc </br>
 Install video: https://www.youtube.com/watch?v=xyebvwn88Iw </br>
+CherryOS clone https://web.archive.org/web/20070929101531/http://www.drunkenblog.com/drunkenblog-archives/000501.html </br>
