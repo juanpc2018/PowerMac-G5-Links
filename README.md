@@ -560,3 +560,8 @@ https://cdn.preterhuman.net/texts/computing/ </br>
 https://cdn.preterhuman.net/texts/computing/linux/ </br>
 
 -----
+
+PearPC PPC emulator for WinXP 32-bits </br>
+0.5.0  https://pearpc.sourceforge.net/  </br>
+0.6pre https://github.com/sebastianbiallas/pearpc </br>
+Install video: https://www.youtube.com/watch?v=xyebvwn88Iw </br>
