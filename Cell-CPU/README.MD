@@ -12,6 +12,7 @@ is also interesting to collect info about PS3 emulators, copatible Linux distros
 https://en.wikipedia.org/wiki/Ppc64 </br>
 RPCS3 </br>
 https://rpcs3.net/blog/ </br>
+https://www.youtube.com/watch?v=19ae5Mq2lJE </br>
 
 POWER<7= ppc64be / ppc64 </br>
 POWER>8 = ppc64le / ppc64el </br>
