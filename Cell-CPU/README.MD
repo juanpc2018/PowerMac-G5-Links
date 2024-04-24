@@ -1,3 +1,7 @@
+Architecture PS3 CELL CPU+SPU </br>
+https://www.copetti.org/writings/consoles/playstation-3/ </br>
+https://github.com/flipacholas/Architecture-of-consoles/blob/master/articles/playstation-3.Rmd.md </br>
+
 Highly optimized Linux latest Kernel for ppc64be </br>
 https://www.youtube.com/watch?v=V5dpXXxGYCU </br>
 https://dl.t2sde.org/binary/2024/ </br>
