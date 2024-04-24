@@ -10,6 +10,8 @@ since Sony PlayStation 3 has a 1-core + 7x SPE Cell CPU based on "Power5", the c
 similar to Xbox 360, that has [3x PowerPC Cores](https://www.youtube.com/watch?v=zmHY_VnuDdE&t=99s) + [GPU](https://www.youtube.com/watch?v=dEXro9yZpZs&t=33s),[1](https://www.youtube.com/watch?v=Q4UHgOR9o-U&t=4s)
 is also interesting to collect info about PS3 emulators, copatible Linux distros, install guides, etc... </br> 
 https://en.wikipedia.org/wiki/Ppc64 </br>
+RPCS3 </br>
+https://rpcs3.net/blog/ </br>
 
 POWER<7= ppc64be / ppc64 </br>
 POWER>8 = ppc64le / ppc64el </br>
